@@ -1,0 +1,24 @@
+<div class="modal-header">
+    <h3 class="modal-title">Create/Update User</h3>
+</div>
+<div class="modal-body">
+    <div class="container row">
+        <div class="col">
+            <label>First Name: </label>
+            <input type="text" ng-model="modalCtrl.userToUpdate.firstName">
+        </div>
+        <div>
+            <label>Last Name: </label>
+            <input type="text" ng-model="modalCtrl.userToUpdate.lastName">
+        </div>
+        <div>
+            <label>UserName: </label>
+            <input type="text" ng-model="modalCtrl.userToUpdate.userName">
+        </div>
+    </div>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-primary" type="button" ng-click="modalCtrl.ok()">OK</button>
+    <button class="btn btn-warning" type="button" ng-click="modalCtrl.cancel()">Cancel</button>
+</div>
+

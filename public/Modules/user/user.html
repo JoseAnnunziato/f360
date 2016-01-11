@@ -1,0 +1,25 @@
+<input type="button" ng-click="userCtrl.open()" value="create" class="btn btn-info">
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr ng-repeat="user in userCtrl.users">
+        <td>{{user.firstName}}</td>
+        <td>{{user.lastName}}</td>
+        <td>{{user.userName}}</td>
+        <td>
+            <input type="button" ng-click="userCtrl.open(user)" value="Edit" class="btn btn-warning">
+            <input type="button" ng-click="userCtrl.removeUser(user)" value="Delete" class="btn btn-danger">
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+
