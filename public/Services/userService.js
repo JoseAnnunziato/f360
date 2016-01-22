@@ -15,7 +15,7 @@
     return service;
 
     function findAllUsers() {
-      return $http.get('/f360/user').then(function (response) {
+      return $http.get('/f360/api/user').then(function (response) {
         return response.data;
       }).catch(function (err) {
         return err;
@@ -23,7 +23,7 @@
     }
 
     function createUser(user) {
-      return $http.post('/f360/user', user).then(function (response) {
+      return $http.post('/f360/api/user', user).then(function (response) {
         return response.data;
       }).catch(function (err) {
         return err;
@@ -31,7 +31,7 @@
     }
 
     function updateUser(user) {
-      return $http.put('/f360/user', user).then(function (response) {
+      return $http.put('/f360/api/user', user).then(function (response) {
         return response.data;
       }).catch(function (err) {
         return err;
@@ -40,7 +40,7 @@
 
     function removeUser(user) {
       var id = user['_id'];
-      return $http.delete('/f360/user/'+id).then(function (response) {
+      return $http.delete('/f360/api/user/'+id).then(function (response) {
         return response.data;
       }).catch(function (err) {
         return err;

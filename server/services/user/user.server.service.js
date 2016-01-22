@@ -1,9 +1,9 @@
 module.exports = function (app, userDao) {
-  app.post("/f360/user", createUser);
-  app.get("/f360/user", findAllUsers);
-  app.get("/f360/user/:id", findUserById);
-  app.put("/f360/user", updateUser);
-  app.delete("/f360/user/:id", deleteUser);
+  app.post("/f360/api/user", createUser);
+  app.get("/f360/api/user", findAllUsers);
+  app.get("/f360/api/user/:id", findUserById);
+  app.put("/f360/api/user", updateUser);
+  app.delete("/f360/api/user/:id", deleteUser);
 
 
   function createUser(req, res) {
