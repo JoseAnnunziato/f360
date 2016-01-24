@@ -12,6 +12,8 @@ module.exports = function (app, gearDao) {
     gearDao.createGear(gear)
         .then(function(response) {
           findAllGear(req, res);
+        }, function(error) {
+          console.log(error);
         });
   }
 
