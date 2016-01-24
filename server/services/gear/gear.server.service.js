@@ -10,53 +10,60 @@ module.exports = function (app, gearDao) {
   function createGear(req, res) {
     var gear = req.body;
     gearDao.createGear(gear)
-        .then(function(response) {
+        .then(function (response) {
           findAllGear(req, res);
-        }, function(error) {
-          console.log(error);
+        }, function (err) {
+          error(res, err);
         });
   }
 
   function findAllGear(req, res) {
-    gearDao.findAllGear().then(function(response) {
-      res.json(response);
+    gearDao.findAllGear().then(function (response) {
+      success(res, response);
+    }, function (err) {
+      error(res, err);
     });
   }
 
   function findGearById(req, res) {
-    gearDao.findGearById(req.params.id).then(function(response) {
-      res.json(response);
+    gearDao.findGearById(req.params.id).then(function (response) {
+      success(res, response);
+    }, function (err) {
+      error(res, err);
     });
   }
 
   function findAllGearByUser(req, res) {
-    gearDao.findAllGearByUser(req.params.id).then(function(response) {
-      res.json(response);
+    gearDao.findAllGearByUser(req.params.id).then(function (response) {
+      success(res, response);
+    }, function (err) {
+      error(res, err);
     });
   }
 
   function updateGear(req, res) {
     var gear = req.body;
-    gearDao.updateGear(gear).then(function(response) {
+    gearDao.updateGear(gear).then(function (response) {
       findAllGear(req, res);
+    }, function (err) {
+      error(res, err);
     });
   }
 
   function deleteGear(req, res) {
     var id = req.params.id;
-    gearDao.deleteGear(id).then(function(response, err) {
-      if(!err)
-        findAllGear(req, res);
-      else{
-        console.log(err);
-      }});
+    gearDao.deleteGear(id).then(function (response) {
+      findAllGear(req, res);
+    }, function (err) {
+      error(res, err);
+    });
   }
 
-  function success(data) {
-    return data;
+  function success(res, data) {
+    res.json(data);
   }
 
-  function error(err) {
-    return err;
+  function error(res, err) {
+    res.json(err);
   }
 };
