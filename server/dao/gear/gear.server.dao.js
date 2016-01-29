@@ -31,8 +31,14 @@ module.exports = function (mongoose) {
   function updateGear(gear) {
     var id = gear['_id'];
     delete gear['_id'];
-    var query = gearModel.findOneAndUpdate({_id: id}, gear, {new: true});
-    return query.exec(responseFromServer);
+    return deleteGear(id).then(
+        function (res) {
+          return createGear(gear)
+        },
+        function (err) {
+          return err;
+        });
+
   }
 
   function deleteGear(id) {
