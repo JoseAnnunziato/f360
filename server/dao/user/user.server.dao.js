@@ -31,7 +31,7 @@ module.exports = function (mongoose) {
   }
 
   function deleteUser(id) {
-    var query = userModel.findByIdAndRemove(id)
+    var query = userModel.findByIdAndRemove(id);
     return query.exec(responseFromServer);
   }
 
