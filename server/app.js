@@ -8,4 +8,7 @@ module.exports = function (app, mongoose) {
   var tripDao = require("./dao/trip/trip.server.dao")(mongoose);
   require("./services/trip/trip.server.service")(app, tripDao, mongoose);
 
+  var fishDao = require("./dao/fish/fish.server.dao")(mongoose);
+  require("./services/fish/fish.server.service")(app, fishDao, tripDao, mongoose);
+
 };

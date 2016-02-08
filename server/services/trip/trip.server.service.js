@@ -2,7 +2,7 @@ module.exports = function (app, tripDao, mongoose) {
   app.post("/f360/api/user/:id/trip", createTrip);
   app.get("/f360/api/user/:id/trip", findAllTripByUser);
   app.get("/f360/api/user/:id/trip/:id", findTripById);
-  app.put("/f360/api/trip", updateTrip);
+  app.put("/f360/api/user/:id/trip", updateTrip);
   app.delete("/f360/api/trip/:id", deleteTrip);
 
 

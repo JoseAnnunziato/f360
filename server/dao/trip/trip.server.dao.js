@@ -1,5 +1,5 @@
 module.exports = function (mongoose) {
-  var TripSchema = require("./../../models/trips/trip.server.schema.js")(mongoose);
+  var TripSchema = require("./../../models/trip/trip.server.schema.js")(mongoose);
   var tripModel = mongoose.model('Trip', TripSchema);
 
   return {
@@ -25,7 +25,7 @@ module.exports = function (mongoose) {
   function updateTrip(trip) {
     var id = trip['_id'];
     delete trip['_id'];
-    tripModel.findOneAndUpdate({_id: id},
+    return tripModel.findOneAndUpdate({_id: id},
         {$set: trip}, {"new": true}).exec(responseFromServer);
   }
 
