@@ -20,14 +20,6 @@
     "Scientificname": "Lophiusamericanus"
   },
   {
-    "CommonName": "BandedRudderfish",
-    "Scientificname": "Seriolazonata"
-  },
-  {
-    "CommonName": "GreaterAmberjack",
-    "Scientificname": "Serioladummerili"
-  },
-  {
     "CommonName": "RedSnapper",
     "Scientificname": "Lutjanuscampechanus"
   },
@@ -176,16 +168,8 @@
     "Scientificname": "Tautogolabrusadspersus"
   },
   {
-    "CommonName": "LittleTunny",
-    "Scientificname": "Euthynnusalletteratus"
-  },
-  {
     "CommonName": "AtlanticBonito",
     "Scientificname": "Sardasarda"
-  },
-  {
-    "CommonName": "LittleTunny",
-    "Scientificname": "Euthynnusalletteratus"
   },
   {
     "CommonName": "YellowfinTuna",
@@ -444,10 +428,6 @@
     "Scientificname": "Stenotomuschrysops"
   },
   {
-    "CommonName": "LittleTunny",
-    "Scientificname": "Euthynnusalletteratus"
-  },
-  {
     "CommonName": "AtlanticMenhaden",
     "Scientificname": "Brevoortiatyrannus"
   },
@@ -618,10 +598,6 @@
   {
     "CommonName": "JackCrevalle",
     "Scientificname": "Caranxhippos"
-  },
-  {
-    "CommonName": "GreaterAmberjack",
-    "Scientificname": "Serioladummerili"
   },
   {
     "CommonName": "YellowPerch",
@@ -968,10 +944,6 @@
     "Scientificname": "Pomatomussaltatrix"
   },
   {
-    "CommonName": "BandedRudderfish",
-    "Scientificname": "Seriolazonata"
-  },
-  {
     "CommonName": "BankSeabass",
     "Scientificname": "Centropristisocyurus"
   },
@@ -1010,10 +982,6 @@
   {
     "CommonName": "Tomtate",
     "Scientificname": "Haemulonaurolineatum"
-  },
-  {
-    "CommonName": "LittleTunny",
-    "Scientificname": "Euthynnusalletteratus"
   },
   {
     "CommonName": "BlueRunner",
@@ -2574,10 +2542,6 @@
   {
     "CommonName": "AcuteHalfbeak",
     "Scientificname": "Hyporhamphusacutus"
-  },
-  {
-    "CommonName": "GreaterAmberjack",
-    "Scientificname": "Serioladumerili"
   },
   {
     "CommonName": "GreatBarracuda",

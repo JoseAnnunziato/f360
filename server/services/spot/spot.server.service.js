@@ -3,7 +3,7 @@ module.exports = function (app, spotDao, userDao, mongoose) {
     app.get("/f360/api/user/:userId/spot", findAllSpotsByUser);
     app.get("/f360/api/spot/:spotId", findSpotById);
     app.put("/f360/api/user/:userId/spot", updateSpot);
-    app.delete("/f360/api/user/:userId/spot", deleteSpot);
+    app.delete("/f360/api/spot/:spotId", deleteSpot);
 
 
     function createSpot(req, res) {
