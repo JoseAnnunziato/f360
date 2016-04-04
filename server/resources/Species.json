@@ -1,3226 +1,3226 @@
 [
   {
-    "Common Name":"Greater Amberjack             ",
-    "Scientific name":"Seriola dumerili"
+    "CommonName": "GreaterAmberjack",
+    "Scientificname": "Serioladumerili"
   },
   {
-    "Common Name":"Little Tunny                  ",
-    "Scientific name":"Euthynnus alletteratus"
+    "CommonName": "LittleTunny",
+    "Scientificname": "Euthynnusalletteratus"
   },
   {
-    "Common Name":"Banded Rudderfish             ",
-    "Scientific name":"Seriola zonata"
+    "CommonName": "BandedRudderfish",
+    "Scientificname": "Seriolazonata"
   },
   {
-    "Common Name":"Gulf Menhaden                 ",
-    "Scientific name":"Brevoortia patronus"
+    "CommonName": "GulfMenhaden",
+    "Scientificname": "Brevoortiapatronus"
   },
   {
-    "Common Name":"Goosefish                     ",
-    "Scientific name":"Lophius americanus"
+    "CommonName": "Goosefish",
+    "Scientificname": "Lophiusamericanus"
   },
   {
-    "Common Name":"Banded Rudderfish             ",
-    "Scientific name":"Seriola zonata"
+    "CommonName": "BandedRudderfish",
+    "Scientificname": "Seriolazonata"
   },
   {
-    "Common Name":"Greater Amberjack             ",
-    "Scientific name":"Seriola dummerili"
+    "CommonName": "GreaterAmberjack",
+    "Scientificname": "Serioladummerili"
   },
   {
-    "Common Name":"Red Snapper                   ",
-    "Scientific name":"Lutjanus campechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscampechanus"
   },
   {
-    "Common Name":"Red Snapper                   ",
-    "Scientific name":"Lutjanus campechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscampechanus"
   },
   {
-    "Common Name":"Atlantic Spadefish            ",
-    "Scientific name":"Chaetodipterus faber"
+    "CommonName": "AtlanticSpadefish",
+    "Scientificname": "Chaetodipterusfaber"
   },
   {
-    "Common Name":"Goosefish                     ",
-    "Scientific name":"Lophius americanus"
+    "CommonName": "Goosefish",
+    "Scientificname": "Lophiusamericanus"
   },
   {
-    "Common Name":"Skipjack Tuna                 ",
-    "Scientific name":"Katsuwonus pelamis"
+    "CommonName": "SkipjackTuna",
+    "Scientificname": "Katsuwonuspelamis"
   },
   {
-    "Common Name":"Ladyfish                     ",
-    "Scientific name":"Elops saurus"
+    "CommonName": "Ladyfish",
+    "Scientificname": "Elopssaurus"
   },
   {
-    "Common Name":"Black Drum                    ",
-    "Scientific name":"Pogonias cromis"
+    "CommonName": "BlackDrum",
+    "Scientificname": "Pogoniascromis"
   },
   {
-    "Common Name":"Great Barracuda               ",
-    "Scientific name":"Sphyraena barracuda"
+    "CommonName": "GreatBarracuda",
+    "Scientificname": "Sphyraenabarracuda"
   },
   {
-    "Common Name":"Gulf Kingfish                 ",
-    "Scientific name":"Menticirrhus littoralis"
+    "CommonName": "GulfKingfish",
+    "Scientificname": "Menticirrhuslittoralis"
   },
   {
-    "Common Name":"Vermilion Snapper             ",
-    "Scientific name":"Rhomboplites aurorubens"
+    "CommonName": "VermilionSnapper",
+    "Scientificname": "Rhomboplitesaurorubens"
   },
   {
-    "Common Name":"Cunner                        ",
-    "Scientific name":"Tautogolabrus adspersus"
+    "CommonName": "Cunner",
+    "Scientificname": "Tautogolabrusadspersus"
   },
   {
-    "Common Name":"Jack Crevalle                 ",
-    "Scientific name":"Caranx hippos"
+    "CommonName": "JackCrevalle",
+    "Scientificname": "Caranxhippos"
   },
   {
-    "Common Name":"Red Drum",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Black Seabass                 ",
-    "Scientific name":"Centropristis striatus"
+    "CommonName": "BlackSeabass",
+    "Scientificname": "Centropristisstriatus"
   },
   {
-    "Common Name":"Gulf Toadfish                 ",
-    "Scientific name":"Opsanus beta"
+    "CommonName": "GulfToadfish",
+    "Scientificname": "Opsanusbeta"
   },
   {
-    "Common Name":"Winter Flounder               ",
-    "Scientific name":"Pleuronectes americanus"
+    "CommonName": "WinterFlounder",
+    "Scientificname": "Pleuronectesamericanus"
   },
   {
-    "Common Name":"Gag Grouper                   ",
-    "Scientific name":"Mycteroperca microlepis"
+    "CommonName": "GagGrouper",
+    "Scientificname": "Mycteropercamicrolepis"
   },
   {
-    "Common Name":"Warsaw Grouper                ",
-    "Scientific name":"Epinephelus nigritus"
+    "CommonName": "WarsawGrouper",
+    "Scientificname": "Epinephelusnigritus"
   },
   {
-    "Common Name":"Warsaw Grouper                ",
-    "Scientific name":"Epinephelus nigritus"
+    "CommonName": "WarsawGrouper",
+    "Scientificname": "Epinephelusnigritus"
   },
   {
-    "Common Name":"Striped Mullet                ",
-    "Scientific name":"Mugil cephalus"
+    "CommonName": "StripedMullet",
+    "Scientificname": "Mugilcephalus"
   },
   {
-    "Common Name":"White Perch                   ",
-    "Scientific name":"Morone americana"
+    "CommonName": "WhitePerch",
+    "Scientificname": "Moroneamericana"
   },
   {
-    "Common Name":"Cobia                         ",
-    "Scientific name":"Rachycentron canadum"
+    "CommonName": "Cobia",
+    "Scientificname": "Rachycentroncanadum"
   },
   {
-    "Common Name":"Winter Flounder               ",
-    "Scientific name":"Plueronectes americanus"
+    "CommonName": "WinterFlounder",
+    "Scientificname": "Plueronectesamericanus"
   },
   {
-    "Common Name":"Black Grouper                 ",
-    "Scientific name":"Mycteroperca bonaci"
+    "CommonName": "BlackGrouper",
+    "Scientificname": "Mycteropercabonaci"
   },
   {
-    "Common Name":"Black Seabass                 ",
-    "Scientific name":"Centropristis striatus"
+    "CommonName": "BlackSeabass",
+    "Scientificname": "Centropristisstriatus"
   },
   {
-    "Common Name":"Tripletail                    ",
-    "Scientific name":"Lobotes surinamensis"
+    "CommonName": "Tripletail",
+    "Scientificname": "Lobotessurinamensis"
   },
   {
-    "Common Name":"Rock Seabass                  ",
-    "Scientific name":"Centropristis philadelphicus"
+    "CommonName": "RockSeabass",
+    "Scientificname": "Centropristisphiladelphicus"
   },
   {
-    "Common Name":"Tautog                        ",
-    "Scientific name":"Tautoga onitis"
+    "CommonName": "Tautog",
+    "Scientificname": "Tautogaonitis"
   },
   {
-    "Common Name":"Almaco Jack                   ",
-    "Scientific name":"Seriola rivoliana"
+    "CommonName": "AlmacoJack",
+    "Scientificname": "Seriolarivoliana"
   },
   {
-    "Common Name":"Black Seabass                 ",
-    "Scientific name":"Centropristis striatus"
+    "CommonName": "BlackSeabass",
+    "Scientificname": "Centropristisstriatus"
   },
   {
-    "Common Name":"Vermilion Snapper             ",
-    "Scientific name":"Rhomboplites aurorubens"
+    "CommonName": "VermilionSnapper",
+    "Scientificname": "Rhomboplitesaurorubens"
   },
   {
-    "Common Name":"Tomtate                       ",
-    "Scientific name":"Haemulon aurolineatum"
+    "CommonName": "Tomtate",
+    "Scientificname": "Haemulonaurolineatum"
   },
   {
-    "Common Name":"Northern Puffer               ",
-    "Scientific name":"Sphoeroides maculatus"
+    "CommonName": "NorthernPuffer",
+    "Scientificname": "Sphoeroidesmaculatus"
   },
   {
-    "Common Name":"Northern Puffer               ",
-    "Scientific name":"Sphoeroides maculatus"
+    "CommonName": "NorthernPuffer",
+    "Scientificname": "Sphoeroidesmaculatus"
   },
   {
-    "Common Name":"Bluefish                      ",
-    "Scientific name":"Pomatomus saltatrix"
+    "CommonName": "Bluefish",
+    "Scientificname": "Pomatomussaltatrix"
   },
   {
-    "Common Name":"White Perch                   ",
-    "Scientific name":"Morone americana"
+    "CommonName": "WhitePerch",
+    "Scientificname": "Moroneamericana"
   },
   {
-    "Common Name":"Cunner                        ",
-    "Scientific name":"Tautogolabrus adspersus"
+    "CommonName": "Cunner",
+    "Scientificname": "Tautogolabrusadspersus"
   },
   {
-    "Common Name":"Little Tunny                  ",
-    "Scientific name":"Euthynnus alletteratus"
+    "CommonName": "LittleTunny",
+    "Scientificname": "Euthynnusalletteratus"
   },
   {
-    "Common Name":"Atlantic Bonito               ",
-    "Scientific name":"Sarda sarda"
+    "CommonName": "AtlanticBonito",
+    "Scientificname": "Sardasarda"
   },
   {
-    "Common Name":"Little Tunny                  ",
-    "Scientific name":"Euthynnus alletteratus"
+    "CommonName": "LittleTunny",
+    "Scientificname": "Euthynnusalletteratus"
   },
   {
-    "Common Name":"Yellowfin Tuna",
-    "Scientific name":"Thunnus albacares"
+    "CommonName": "YellowfinTuna",
+    "Scientificname": "Thunnusalbacares"
   },
   {
-    "Common Name":"Pollock                       ",
-    "Scientific name":"Pollachius virens"
+    "CommonName": "Pollock",
+    "Scientificname": "Pollachiusvirens"
   },
   {
-    "Common Name":"Atlantic Mackerel             ",
-    "Scientific name":"Scomber scombrus"
+    "CommonName": "AtlanticMackerel",
+    "Scientificname": "Scomberscombrus"
   },
   {
-    "Common Name":"Pinfish                       ",
-    "Scientific name":"Lagodon rhomboides"
+    "CommonName": "Pinfish",
+    "Scientificname": "Lagodonrhomboides"
   },
   {
-    "Common Name":"Windowpane                    ",
-    "Scientific name":"Scophthalmus aquosus"
+    "CommonName": "Windowpane",
+    "Scientificname": "Scophthalmusaquosus"
   },
   {
-    "Common Name":"Sandbar Shark                 ",
-    "Scientific name":"Carcharhinus plumbeus"
+    "CommonName": "SandbarShark",
+    "Scientificname": "Carcharhinusplumbeus"
   },
   {
-    "Common Name":"Atlantic Croaker              ",
-    "Scientific name":"Micropogonias undulatus"
+    "CommonName": "AtlanticCroaker",
+    "Scientificname": "Micropogoniasundulatus"
   },
   {
-    "Common Name":"Red Drum",
-    "Scientific name":"Scianops ocellatus"
+    "CommonName": "RedDrum",
+    "Scientificname": "Scianopsocellatus"
   },
   {
-    "Common Name":"Dolphin",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphin",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Atlantic Menhaden             ",
-    "Scientific name":"Brevoortia tyrannus"
+    "CommonName": "AtlanticMenhaden",
+    "Scientificname": "Brevoortiatyrannus"
   },
   {
-    "Common Name":"Tripletail                    ",
-    "Scientific name":"Lobotes surinamensis"
+    "CommonName": "Tripletail",
+    "Scientificname": "Lobotessurinamensis"
   },
   {
-    "Common Name":"Tripletail                    ",
-    "Scientific name":"Lobotes surinamensis"
+    "CommonName": "Tripletail",
+    "Scientificname": "Lobotessurinamensis"
   },
   {
-    "Common Name":"Cunner                        ",
-    "Scientific name":"Tautogolabrus adspersus"
+    "CommonName": "Cunner",
+    "Scientificname": "Tautogolabrusadspersus"
   },
   {
-    "Common Name":"Pinfish                       ",
-    "Scientific name":"Lagodon rhomboides"
+    "CommonName": "Pinfish",
+    "Scientificname": "Lagodonrhomboides"
   },
   {
-    "Common Name":"Scup                          ",
-    "Scientific name":"Stenotomus crysops"
+    "CommonName": "Scup",
+    "Scientificname": "Stenotomuscrysops"
   },
   {
-    "Common Name":"Vermilion Snapper             ",
-    "Scientific name":"Rhomboplites aurorubens"
+    "CommonName": "VermilionSnapper",
+    "Scientificname": "Rhomboplitesaurorubens"
   },
   {
-    "Common Name":"Lane Snapper                  ",
-    "Scientific name":"Lutjanus synagris"
+    "CommonName": "LaneSnapper",
+    "Scientificname": "Lutjanussynagris"
   },
   {
-    "Common Name":"Lane Snapper                  ",
-    "Scientific name":"Lutjanus synagris"
+    "CommonName": "LaneSnapper",
+    "Scientificname": "Lutjanussynagris"
   },
   {
-    "Common Name":"Gafftopsail Catfish           ",
-    "Scientific name":"Bagre marinus"
+    "CommonName": "GafftopsailCatfish",
+    "Scientificname": "Bagremarinus"
   },
   {
-    "Common Name":"Sea Catfish                   ",
-    "Scientific name":"Arius felis"
+    "CommonName": "SeaCatfish",
+    "Scientificname": "Ariusfelis"
   },
   {
-    "Common Name":"Atlantic Wolffish             ",
-    "Scientific name":"Anarhichas lupus"
+    "CommonName": "AtlanticWolffish",
+    "Scientificname": "Anarhichaslupus"
   },
   {
-    "Common Name":"King Mackerel                 ",
-    "Scientific name":"Scomberomorus cavalla"
+    "CommonName": "KingMackerel",
+    "Scientificname": "Scomberomoruscavalla"
   },
   {
-    "Common Name":"Black Drum                    ",
-    "Scientific name":"Pogonias cromis"
+    "CommonName": "BlackDrum",
+    "Scientificname": "Pogoniascromis"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Sea Catfish                   ",
-    "Scientific name":"Arius felis"
+    "CommonName": "SeaCatfish",
+    "Scientificname": "Ariusfelis"
   },
   {
-    "Common Name":"Cunner                        ",
-    "Scientific name":"Tautogolabrus adspersus"
+    "CommonName": "Cunner",
+    "Scientificname": "Tautogolabrusadspersus"
   },
   {
-    "Common Name":"Cunner                        ",
-    "Scientific name":"Tautogolabrus adspersus"
+    "CommonName": "Cunner",
+    "Scientificname": "Tautogolabrusadspersus"
   },
   {
-    "Common Name":"Pompano Dolphin               ",
-    "Scientific name":"Coryphaena equisetis"
+    "CommonName": "PompanoDolphin",
+    "Scientificname": "Coryphaenaequisetis"
   },
   {
-    "Common Name":"Dolphinfish",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphinfish",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Red Snapper                   ",
-    "Scientific name":"Lutjanus campechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscampechanus"
   },
   {
-    "Common Name":"Silk Snapper                  ",
-    "Scientific name":"Lutjanus vivanus"
+    "CommonName": "SilkSnapper",
+    "Scientificname": "Lutjanusvivanus"
   },
   {
-    "Common Name":"Tripletail                    ",
-    "Scientific name":"Lobotes surinamensis"
+    "CommonName": "Tripletail",
+    "Scientificname": "Lobotessurinamensis"
   },
   {
-    "Common Name":"Snowy Grouper",
-    "Scientific name":"Epinephelus niveatus"
+    "CommonName": "SnowyGrouper",
+    "Scientificname": "Epinephelusniveatus"
   },
   {
-    "Common Name":"Cunner                        ",
-    "Scientific name":"Tautogolabrus adspersus"
+    "CommonName": "Cunner",
+    "Scientificname": "Tautogolabrusadspersus"
   },
   {
-    "Common Name":"Bluefish                      ",
-    "Scientific name":"Pomatomus saltatrix"
+    "CommonName": "Bluefish",
+    "Scientificname": "Pomatomussaltatrix"
   },
   {
-    "Common Name":"Tautog                        ",
-    "Scientific name":"Tautoga onitis"
+    "CommonName": "Tautog",
+    "Scientificname": "Tautogaonitis"
   },
   {
-    "Common Name":"Mummichog                     ",
-    "Scientific name":"Fundulus heteroclitus"
+    "CommonName": "Mummichog",
+    "Scientificname": "Fundulusheteroclitus"
   },
   {
-    "Common Name":"Round Scad                    ",
-    "Scientific name":"Decapterus punctatus"
+    "CommonName": "RoundScad",
+    "Scientificname": "Decapteruspunctatus"
   },
   {
-    "Common Name":"Atlantic Cod                  ",
-    "Scientific name":"Gadus morhua"
+    "CommonName": "AtlanticCod",
+    "Scientificname": "Gadusmorhua"
   },
   {
-    "Common Name":"Atlantic Cod                  ",
-    "Scientific name":"Gadus morhua"
+    "CommonName": "AtlanticCod",
+    "Scientificname": "Gadusmorhua"
   },
   {
-    "Common Name":"Spotted Hake                  ",
-    "Scientific name":"Urophycis regia"
+    "CommonName": "SpottedHake",
+    "Scientificname": "Urophycisregia"
   },
   {
-    "Common Name":"Spotted Hake                  ",
-    "Scientific name":"Urophycis regia"
+    "CommonName": "SpottedHake",
+    "Scientificname": "Urophycisregia"
   },
   {
-    "Common Name":"Tilefish                      ",
-    "Scientific name":"Lopholatilus chamaeleonticeps"
+    "CommonName": "Tilefish",
+    "Scientificname": "Lopholatiluschamaeleonticeps"
   },
   {
-    "Common Name":"White Grunt                   ",
-    "Scientific name":"Haemulon plumieri"
+    "CommonName": "WhiteGrunt",
+    "Scientificname": "Haemulonplumieri"
   },
   {
-    "Common Name":"Little Skate                  ",
-    "Scientific name":"Raja erinacea"
+    "CommonName": "LittleSkate",
+    "Scientificname": "Rajaerinacea"
   },
   {
-    "Common Name":"Dolphin",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphin",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Cobia                         ",
-    "Scientific name":"Rachycentron canadum"
+    "CommonName": "Cobia",
+    "Scientificname": "Rachycentroncanadum"
   },
   {
-    "Common Name":"Cobia                         ",
-    "Scientific name":"Rachycentron canadum"
+    "CommonName": "Cobia",
+    "Scientificname": "Rachycentroncanadum"
   },
   {
-    "Common Name":"Atlantic Bumper               ",
-    "Scientific name":"Chloroscombrus chrysurus"
+    "CommonName": "AtlanticBumper",
+    "Scientificname": "Chloroscombruschrysurus"
   },
   {
-    "Common Name":"Jack Crevalle                 ",
-    "Scientific name":"Caranx hippos"
+    "CommonName": "JackCrevalle",
+    "Scientificname": "Caranxhippos"
   },
   {
-    "Common Name":"Atlantic Croaker              ",
-    "Scientific name":"Micropogon undulatus"
+    "CommonName": "AtlanticCroaker",
+    "Scientificname": "Micropogonundulatus"
   },
   {
-    "Common Name":"Black Drum                    ",
-    "Scientific name":"Pogonias cromis"
+    "CommonName": "BlackDrum",
+    "Scientificname": "Pogoniascromis"
   },
   {
-    "Common Name":"Spotfin Hogfish               ",
-    "Scientific name":"Bodianus pulchellus"
+    "CommonName": "SpotfinHogfish",
+    "Scientificname": "Bodianuspulchellus"
   },
   {
-    "Common Name":"Cubera Snapper                ",
-    "Scientific name":"Lutjanus cyanopterus"
+    "CommonName": "CuberaSnapper",
+    "Scientificname": "Lutjanuscyanopterus"
   },
   {
-    "Common Name":"Great Barracuda               ",
-    "Scientific name":"Sphyraena barracuda"
+    "CommonName": "GreatBarracuda",
+    "Scientificname": "Sphyraenabarracuda"
   },
   {
-    "Common Name":"Red Snapper                   ",
-    "Scientific name":"Lutjanus camphechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscamphechanus"
   },
   {
-    "Common Name":"Red Drum",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Sheepshead                    ",
-    "Scientific name":"Archosargus probatocephalus"
+    "CommonName": "Sheepshead",
+    "Scientificname": "Archosargusprobatocephalus"
   },
   {
-    "Common Name":"Summer Flounder               ",
-    "Scientific name":"Paralichthys dentatus"
+    "CommonName": "SummerFlounder",
+    "Scientificname": "Paralichthysdentatus"
   },
   {
-    "Common Name":"Dolphin                       ",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphin",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Black Drum                    ",
-    "Scientific name":"Pogonias cromis"
+    "CommonName": "BlackDrum",
+    "Scientificname": "Pogoniascromis"
   },
   {
-    "Common Name":"American Eel                  ",
-    "Scientific name":"Anguilla rostrata"
+    "CommonName": "AmericanEel",
+    "Scientificname": "Anguillarostrata"
   },
   {
-    "Common Name":"Cobia                         ",
-    "Scientific name":"Rachycentron canadum"
+    "CommonName": "Cobia",
+    "Scientificname": "Rachycentroncanadum"
   },
   {
-    "Common Name":"Scup                          ",
-    "Scientific name":"Stenotomus chrysops"
+    "CommonName": "Scup",
+    "Scientificname": "Stenotomuschrysops"
   },
   {
-    "Common Name":"Little Tunny                  ",
-    "Scientific name":"Euthynnus alletteratus"
+    "CommonName": "LittleTunny",
+    "Scientificname": "Euthynnusalletteratus"
   },
   {
-    "Common Name":"Atlantic Menhaden             ",
-    "Scientific name":"Brevoortia tyrannus"
+    "CommonName": "AtlanticMenhaden",
+    "Scientificname": "Brevoortiatyrannus"
   },
   {
-    "Common Name":"Dolphin",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphin",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Tomtate                       ",
-    "Scientific name":"Haemulon aurolineatum"
+    "CommonName": "Tomtate",
+    "Scientificname": "Haemulonaurolineatum"
   },
   {
-    "Common Name":"Southern Hake                 ",
-    "Scientific name":"Urophycis floridana"
+    "CommonName": "SouthernHake",
+    "Scientificname": "Urophycisfloridana"
   },
   {
-    "Common Name":"Summer Flounder               ",
-    "Scientific name":"Paralichthys dentatus"
+    "CommonName": "SummerFlounder",
+    "Scientificname": "Paralichthysdentatus"
   },
   {
-    "Common Name":"Atlantic Bonito               ",
-    "Scientific name":"Sarda sarda"
+    "CommonName": "AtlanticBonito",
+    "Scientificname": "Sardasarda"
   },
   {
-    "Common Name":"Blackfin Tuna                 ",
-    "Scientific name":"Thunnus atlanticus"
+    "CommonName": "BlackfinTuna",
+    "Scientificname": "Thunnusatlanticus"
   },
   {
-    "Common Name":"Blackfin Tuna                 ",
-    "Scientific name":"Thunnus atlanticus"
+    "CommonName": "BlackfinTuna",
+    "Scientificname": "Thunnusatlanticus"
   },
   {
-    "Common Name":"American Eel                  ",
-    "Scientific name":"Anguilla rostrata"
+    "CommonName": "AmericanEel",
+    "Scientificname": "Anguillarostrata"
   },
   {
-    "Common Name":"Silver Hake                   ",
-    "Scientific name":"Merluccius bilinearis"
+    "CommonName": "SilverHake",
+    "Scientificname": "Merlucciusbilinearis"
   },
   {
-    "Common Name":"Atlantic Tomcod               ",
-    "Scientific name":"Microgadus tomcod"
+    "CommonName": "AtlanticTomcod",
+    "Scientificname": "Microgadustomcod"
   },
   {
-    "Common Name":"Palometa                      ",
-    "Scientific name":"Trachinotus goodei"
+    "CommonName": "Palometa",
+    "Scientificname": "Trachinotusgoodei"
   },
   {
-    "Common Name":"Whitebone Porgy               ",
-    "Scientific name":"Calamus leucosteus"
+    "CommonName": "WhitebonePorgy",
+    "Scientificname": "Calamusleucosteus"
   },
   {
-    "Common Name":"Freshwater Drum               ",
-    "Scientific name":"Aplodinotus grunniens"
+    "CommonName": "FreshwaterDrum",
+    "Scientificname": "Aplodinotusgrunniens"
   },
   {
-    "Common Name":"Jewfish                       ",
-    "Scientific name":"Epinephelus itajara"
+    "CommonName": "Jewfish",
+    "Scientificname": "Epinephelusitajara"
   },
   {
-    "Common Name":"Warsaw Grouper                ",
-    "Scientific name":"Epinephelus nigritus"
+    "CommonName": "WarsawGrouper",
+    "Scientificname": "Epinephelusnigritus"
   },
   {
-    "Common Name":"Northern Puffer               ",
-    "Scientific name":"Sphoeroides maculatus"
+    "CommonName": "NorthernPuffer",
+    "Scientificname": "Sphoeroidesmaculatus"
   },
   {
-    "Common Name":"Bigeye Scad                   ",
-    "Scientific name":"Selar crumenophthalmus"
+    "CommonName": "BigeyeScad",
+    "Scientificname": "Selarcrumenophthalmus"
   },
   {
-    "Common Name":"Atlantic Tarpon-Young         ",
-    "Scientific name":"Atlanticus megalops"
+    "CommonName": "AtlanticTarpon-Young",
+    "Scientificname": "Atlanticusmegalops"
   },
   {
-    "Common Name":"Spot",
-    "Scientific name":"Leiostomus xanthurus"
+    "CommonName": "Spot",
+    "Scientificname": "Leiostomusxanthurus"
   },
   {
-    "Common Name":"Silk Snapper                  ",
-    "Scientific name":"Lutjanus vivanus"
+    "CommonName": "SilkSnapper",
+    "Scientificname": "Lutjanusvivanus"
   },
   {
-    "Common Name":"Dolphin",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphin",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Gag Grouper                   ",
-    "Scientific name":"Mycteroperca microlepis"
+    "CommonName": "GagGrouper",
+    "Scientificname": "Mycteropercamicrolepis"
   },
   {
-    "Common Name":"Striped Mullet                ",
-    "Scientific name":"Mugil cephalus"
+    "CommonName": "StripedMullet",
+    "Scientificname": "Mugilcephalus"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Permit                        ",
-    "Scientific name":"Trachinotus falcatus"
+    "CommonName": "Permit",
+    "Scientificname": "Trachinotusfalcatus"
   },
   {
-    "Common Name":"Black Seabass                 ",
-    "Scientific name":"Centropristis striatus"
+    "CommonName": "BlackSeabass",
+    "Scientificname": "Centropristisstriatus"
   },
   {
-    "Common Name":"Largemouth Bass               ",
-    "Scientific name":"Micropterus salmoides"
+    "CommonName": "LargemouthBass",
+    "Scientificname": "Micropterussalmoides"
   },
   {
-    "Common Name":"Kingfish",
-    "Scientific name":"Menticirrhus spp."
+    "CommonName": "Kingfish",
+    "Scientificname": "Menticirrhusspp."
   },
   {
-    "Common Name":"White Grunt                   ",
-    "Scientific name":"Haemulon plumieri"
+    "CommonName": "WhiteGrunt",
+    "Scientificname": "Haemulonplumieri"
   },
   {
-    "Common Name":"Pigfish                       ",
-    "Scientific name":"Orthopristis chrysoptera"
+    "CommonName": "Pigfish",
+    "Scientificname": "Orthopristischrysoptera"
   },
   {
-    "Common Name":"Searobin",
-    "Scientific name":"Triglidae spp."
+    "CommonName": "Searobin",
+    "Scientificname": "Triglidaespp."
   },
   {
-    "Common Name":"Bearded Brotula              ",
-    "Scientific name":"Brotula barbata"
+    "CommonName": "BeardedBrotula",
+    "Scientificname": "Brotulabarbata"
   },
   {
-    "Common Name":"Gafftopsail Catfish           ",
-    "Scientific name":"Bagre marinus"
+    "CommonName": "GafftopsailCatfish",
+    "Scientificname": "Bagremarinus"
   },
   {
-    "Common Name":"Sea Catfish                   ",
-    "Scientific name":"Arius felis"
+    "CommonName": "SeaCatfish",
+    "Scientificname": "Ariusfelis"
   },
   {
-    "Common Name":"Atlantic Croaker              ",
-    "Scientific name":"Micropogon undulatus"
+    "CommonName": "AtlanticCroaker",
+    "Scientificname": "Micropogonundulatus"
   },
   {
-    "Common Name":"Blue Runner                   ",
-    "Scientific name":"Caranx crysos"
+    "CommonName": "BlueRunner",
+    "Scientificname": "Caranxcrysos"
   },
   {
-    "Common Name":"Hogfish                       ",
-    "Scientific name":"Lachnolaimus maximus"
+    "CommonName": "Hogfish",
+    "Scientificname": "Lachnolaimusmaximus"
   },
   {
-    "Common Name":"Pigfish                       ",
-    "Scientific name":"Orthopristis chrysoptera"
+    "CommonName": "Pigfish",
+    "Scientificname": "Orthopristischrysoptera"
   },
   {
-    "Common Name":"Blue Runner                   ",
-    "Scientific name":"Caranx crysos"
+    "CommonName": "BlueRunner",
+    "Scientificname": "Caranxcrysos"
   },
   {
-    "Common Name":"Jack Crevalle                 ",
-    "Scientific name":"Caranx hippos"
+    "CommonName": "JackCrevalle",
+    "Scientificname": "Caranxhippos"
   },
   {
-    "Common Name":"Greater Amberjack             ",
-    "Scientific name":"Seriola dummerili"
+    "CommonName": "GreaterAmberjack",
+    "Scientificname": "Serioladummerili"
   },
   {
-    "Common Name":"Yellow Perch                 ",
-    "Scientific name":"Perca flavescens"
+    "CommonName": "YellowPerch",
+    "Scientificname": "Percaflavescens"
   },
   {
-    "Common Name":"Jack Crevalle                 ",
-    "Scientific name":"Caranx hippos"
+    "CommonName": "JackCrevalle",
+    "Scientificname": "Caranxhippos"
   },
   {
-    "Common Name":"Warsaw Grouper                ",
-    "Scientific name":"Epinephelus nigritus"
+    "CommonName": "WarsawGrouper",
+    "Scientificname": "Epinephelusnigritus"
   },
   {
-    "Common Name":"Goliath Grouper               ",
-    "Scientific name":"Epinephelus itajara"
+    "CommonName": "GoliathGrouper",
+    "Scientificname": "Epinephelusitajara"
   },
   {
-    "Common Name":"Striped Mullet                ",
-    "Scientific name":"Mugil cephalus"
+    "CommonName": "StripedMullet",
+    "Scientificname": "Mugilcephalus"
   },
   {
-    "Common Name":"White Grunt                   ",
-    "Scientific name":"Haemulon plumieri"
+    "CommonName": "WhiteGrunt",
+    "Scientificname": "Haemulonplumieri"
   },
   {
-    "Common Name":"King Mackerel                 ",
-    "Scientific name":"Scomberomorus cavalla"
+    "CommonName": "KingMackerel",
+    "Scientificname": "Scomberomoruscavalla"
   },
   {
-    "Common Name":"Kingfish",
-    "Scientific name":"Menticirrhus spp."
+    "CommonName": "Kingfish",
+    "Scientificname": "Menticirrhusspp."
   },
   {
-    "Common Name":"King Mackerel                 ",
-    "Scientific name":"Scomberomorus cavalla"
+    "CommonName": "KingMackerel",
+    "Scientificname": "Scomberomoruscavalla"
   },
   {
-    "Common Name":"Speckled Hind                 ",
-    "Scientific name":"Epinephelus drummondhayi"
+    "CommonName": "SpeckledHind",
+    "Scientificname": "Epinephelusdrummondhayi"
   },
   {
-    "Common Name":"Spot                          ",
-    "Scientific name":"Leiostomus xanthurus"
+    "CommonName": "Spot",
+    "Scientificname": "Leiostomusxanthurus"
   },
   {
-    "Common Name":"Gray Triggerfish              ",
-    "Scientific name":"Balistes capriscus"
+    "CommonName": "GrayTriggerfish",
+    "Scientificname": "Balistescapriscus"
   },
   {
-    "Common Name":"Gray Triggerfish              ",
-    "Scientific name":"Balistes capriscus"
+    "CommonName": "GrayTriggerfish",
+    "Scientificname": "Balistescapriscus"
   },
   {
-    "Common Name":"Winter Flounder               ",
-    "Scientific name":"Pleuronectes americanus"
+    "CommonName": "WinterFlounder",
+    "Scientificname": "Pleuronectesamericanus"
   },
   {
-    "Common Name":"Cobia                         ",
-    "Scientific name":"Rachycentron canadum"
+    "CommonName": "Cobia",
+    "Scientificname": "Rachycentroncanadum"
   },
   {
-    "Common Name":"Tiger Shark                   ",
-    "Scientific name":"Galeocerdo cuvieri"
+    "CommonName": "TigerShark",
+    "Scientificname": "Galeocerdocuvieri"
   },
   {
-    "Common Name":"Striped Bass                 ",
-    "Scientific name":"Morone saxatilis"
+    "CommonName": "StripedBass",
+    "Scientificname": "Moronesaxatilis"
   },
   {
-    "Common Name":"Cobia                         ",
-    "Scientific name":"Rachycentron canadum"
+    "CommonName": "Cobia",
+    "Scientificname": "Rachycentroncanadum"
   },
   {
-    "Common Name":"White Hake                    ",
-    "Scientific name":"Urophycis tenuis"
+    "CommonName": "WhiteHake",
+    "Scientificname": "Urophycistenuis"
   },
   {
-    "Common Name":"Red Hake                      ",
-    "Scientific name":"Urophycis chuss"
+    "CommonName": "RedHake",
+    "Scientificname": "Urophycischuss"
   },
   {
-    "Common Name":"Red Hake                      ",
-    "Scientific name":"Urophycis chuss"
+    "CommonName": "RedHake",
+    "Scientificname": "Urophycischuss"
   },
   {
-    "Common Name":"Palometa                      ",
-    "Scientific name":"Trachinotus goodei"
+    "CommonName": "Palometa",
+    "Scientificname": "Trachinotusgoodei"
   },
   {
-    "Common Name":"Scup                          ",
-    "Scientific name":"Stenotomus chrysops"
+    "CommonName": "Scup",
+    "Scientificname": "Stenotomuschrysops"
   },
   {
-    "Common Name":"Ladyfish                      ",
-    "Scientific name":"Elops saurus"
+    "CommonName": "Ladyfish",
+    "Scientificname": "Elopssaurus"
   },
   {
-    "Common Name":"Gray Snapper                  ",
-    "Scientific name":"Lutjanus griseus"
+    "CommonName": "GraySnapper",
+    "Scientificname": "Lutjanusgriseus"
   },
   {
-    "Common Name":"Gray Snapper                  ",
-    "Scientific name":"Lutjanus griseus"
+    "CommonName": "GraySnapper",
+    "Scientificname": "Lutjanusgriseus"
   },
   {
-    "Common Name":"Sea Catfish                   ",
-    "Scientific name":"Arius felis"
+    "CommonName": "SeaCatfish",
+    "Scientificname": "Ariusfelis"
   },
   {
-    "Common Name":"Vermillion Snapper            ",
-    "Scientific name":"Rhomboplites aurorubens"
+    "CommonName": "VermillionSnapper",
+    "Scientificname": "Rhomboplitesaurorubens"
   },
   {
-    "Common Name":"Northern Kingfish             ",
-    "Scientific name":"Menticirrhus saxatilis"
+    "CommonName": "NorthernKingfish",
+    "Scientificname": "Menticirrhussaxatilis"
   },
   {
-    "Common Name":"Goosefish                     ",
-    "Scientific name":"Lophius americanus"
+    "CommonName": "Goosefish",
+    "Scientificname": "Lophiusamericanus"
   },
   {
-    "Common Name":"Atlantic Spadefish            ",
-    "Scientific name":"Chaetodipterus faber"
+    "CommonName": "AtlanticSpadefish",
+    "Scientificname": "Chaetodipterusfaber"
   },
   {
-    "Common Name":"Atlantic Menhaden             ",
-    "Scientific name":"Brevoortia tyrannus"
+    "CommonName": "AtlanticMenhaden",
+    "Scientificname": "Brevoortiatyrannus"
   },
   {
-    "Common Name":"Red Raven                     ",
-    "Scientific name":"Hemitripterus americanus"
+    "CommonName": "RedRaven",
+    "Scientificname": "Hemitripterusamericanus"
   },
   {
-    "Common Name":"Gizzard Shad                  ",
-    "Scientific name":"Dorosoma cepedianum"
+    "CommonName": "GizzardShad",
+    "Scientificname": "Dorosomacepedianum"
   },
   {
-    "Common Name":"Winter Flounder               ",
-    "Scientific name":"Pleuronectes americanus"
+    "CommonName": "WinterFlounder",
+    "Scientificname": "Pleuronectesamericanus"
   },
   {
-    "Common Name":"Red Snapper                   ",
-    "Scientific name":"Lutjanus campechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscampechanus"
   },
   {
-    "Common Name":"Kingfish",
-    "Scientific name":"Menticirrhus spp."
+    "CommonName": "Kingfish",
+    "Scientificname": "Menticirrhusspp."
   },
   {
-    "Common Name":"Vermilion Snapper             ",
-    "Scientific name":"Rhomboplites aurorubens"
+    "CommonName": "VermilionSnapper",
+    "Scientificname": "Rhomboplitesaurorubens"
   },
   {
-    "Common Name":"Mutton Snapper                ",
-    "Scientific name":"Lutjanus analis"
+    "CommonName": "MuttonSnapper",
+    "Scientificname": "Lutjanusanalis"
   },
   {
-    "Common Name":"Scup                          ",
-    "Scientific name":"Stenotomus chrysops"
+    "CommonName": "Scup",
+    "Scientificname": "Stenotomuschrysops"
   },
   {
-    "Common Name":"Sergeant Taurus               ",
-    "Scientific name":"Abudefduf taurus"
+    "CommonName": "SergeantTaurus",
+    "Scientificname": "Abudefduftaurus"
   },
   {
-    "Common Name":"Spot                          ",
-    "Scientific name":"Leiostomus xanthurus"
+    "CommonName": "Spot",
+    "Scientificname": "Leiostomusxanthurus"
   },
   {
-    "Common Name":"Summer Flounder               ",
-    "Scientific name":"Paralichthys dentatus"
+    "CommonName": "SummerFlounder",
+    "Scientificname": "Paralichthysdentatus"
   },
   {
-    "Common Name":"Atlantic Bonito               ",
-    "Scientific name":"Sarda sarda"
+    "CommonName": "AtlanticBonito",
+    "Scientificname": "Sardasarda"
   },
   {
-    "Common Name":"Golden Redfish                ",
-    "Scientific name":"Sebastes marinus"
+    "CommonName": "GoldenRedfish",
+    "Scientificname": "Sebastesmarinus"
   },
   {
-    "Common Name":"Skipjack Tuna                 ",
-    "Scientific name":"Kaysuwonus pelamis"
+    "CommonName": "SkipjackTuna",
+    "Scientificname": "Kaysuwonuspelamis"
   },
   {
-    "Common Name":"Spot                          ",
-    "Scientific name":"Leiostomus xanthurus"
+    "CommonName": "Spot",
+    "Scientificname": "Leiostomusxanthurus"
   },
   {
-    "Common Name":"Oyster Toadfish               ",
-    "Scientific name":"Opsanus tau"
+    "CommonName": "OysterToadfish",
+    "Scientificname": "Opsanustau"
   },
   {
-    "Common Name":"Red Snapper",
-    "Scientific name":"Lutjanus campechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscampechanus"
   },
   {
-    "Common Name":"Cunner                        ",
-    "Scientific name":"Tautogolabus adspersus"
+    "CommonName": "Cunner",
+    "Scientificname": "Tautogolabusadspersus"
   },
   {
-    "Common Name":"Bonefish                      ",
-    "Scientific name":"Albula vulpes"
+    "CommonName": "Bonefish",
+    "Scientificname": "Albulavulpes"
   },
   {
-    "Common Name":"Hogfish                       ",
-    "Scientific name":"Lachnolaimus maximus"
+    "CommonName": "Hogfish",
+    "Scientificname": "Lachnolaimusmaximus"
   },
   {
-    "Common Name":"Tautog                        ",
-    "Scientific name":"Tautoga onitis"
+    "CommonName": "Tautog",
+    "Scientificname": "Tautogaonitis"
   },
   {
-    "Common Name":"Black Seabass                 ",
-    "Scientific name":"Centropristis striatus"
+    "CommonName": "BlackSeabass",
+    "Scientificname": "Centropristisstriatus"
   },
   {
-    "Common Name":"Atlantic Croaker              ",
-    "Scientific name":"Micropogon undulatus"
+    "CommonName": "AtlanticCroaker",
+    "Scientificname": "Micropogonundulatus"
   },
   {
-    "Common Name":"Red Porgy                     ",
-    "Scientific name":"Pagrus pagrus"
+    "CommonName": "RedPorgy",
+    "Scientificname": "Pagruspagrus"
   },
   {
-    "Common Name":"Red Porgy                     ",
-    "Scientific name":"Pagrus pagrus"
+    "CommonName": "RedPorgy",
+    "Scientificname": "Pagruspagrus"
   },
   {
-    "Common Name":"Summer Flounder               ",
-    "Scientific name":"Paralichthys dentatus"
+    "CommonName": "SummerFlounder",
+    "Scientificname": "Paralichthysdentatus"
   },
   {
-    "Common Name":"Menhaden",
-    "Scientific name":"Brevoortia spp."
+    "CommonName": "Menhaden",
+    "Scientificname": "Brevoortiaspp."
   },
   {
-    "Common Name":"Florida Pompano               ",
-    "Scientific name":"Trachinotus carolinus"
+    "CommonName": "FloridaPompano",
+    "Scientificname": "Trachinotuscarolinus"
   },
   {
-    "Common Name":"Pompano Dolphin               ",
-    "Scientific name":"Coryphaena equisetis"
+    "CommonName": "PompanoDolphin",
+    "Scientificname": "Coryphaenaequisetis"
   },
   {
-    "Common Name":"Black Drum",
-    "Scientific name":"Pogonias cromis"
+    "CommonName": "BlackDrum",
+    "Scientificname": "Pogoniascromis"
   },
   {
-    "Common Name":"Striped Mullet                ",
-    "Scientific name":"Mugil cephalus"
+    "CommonName": "StripedMullet",
+    "Scientificname": "Mugilcephalus"
   },
   {
-    "Common Name":"Scup                          ",
-    "Scientific name":"Stenotomus chrysops"
+    "CommonName": "Scup",
+    "Scientificname": "Stenotomuschrysops"
   },
   {
-    "Common Name":"Northern Puffer               ",
-    "Scientific name":"Sphoeroides maculatus"
+    "CommonName": "NorthernPuffer",
+    "Scientificname": "Sphoeroidesmaculatus"
   },
   {
-    "Common Name":"Black Drum",
-    "Scientific name":"Pogonias cromis"
+    "CommonName": "BlackDrum",
+    "Scientificname": "Pogoniascromis"
   },
   {
-    "Common Name":"Red Drum",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Smooth Puffer                 ",
-    "Scientific name":"Lagocephalus laevigatus"
+    "CommonName": "SmoothPuffer",
+    "Scientificname": "Lagocephaluslaevigatus"
   },
   {
-    "Common Name":"Lane Snapper                  ",
-    "Scientific name":"Lutjanus synagris"
+    "CommonName": "LaneSnapper",
+    "Scientificname": "Lutjanussynagris"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Scianops ocellatus"
+    "CommonName": "RedDrum",
+    "Scientificname": "Scianopsocellatus"
   },
   {
-    "Common Name":"Red Snapper                   ",
-    "Scientific name":"Lutjanus campechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscampechanus"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Tomtate                       ",
-    "Scientific name":"Haemulon aurolineatum"
+    "CommonName": "Tomtate",
+    "Scientificname": "Haemulonaurolineatum"
   },
   {
-    "Common Name":"White Grunt                   ",
-    "Scientific name":"Haemulon plumieri"
+    "CommonName": "WhiteGrunt",
+    "Scientificname": "Haemulonplumieri"
   },
   {
-    "Common Name":"Scup                          ",
-    "Scientific name":"Stenotomus chrysops"
+    "CommonName": "Scup",
+    "Scientificname": "Stenotomuschrysops"
   },
   {
-    "Common Name":"Golden Redfish                ",
-    "Scientific name":"Sebastes marinus"
+    "CommonName": "GoldenRedfish",
+    "Scientificname": "Sebastesmarinus"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Lane Snapper                  ",
-    "Scientific name":"Lutjanus synagris"
+    "CommonName": "LaneSnapper",
+    "Scientificname": "Lutjanussynagris"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Yellow Perch                  ",
-    "Scientific name":"Perca flavescens"
+    "CommonName": "YellowPerch",
+    "Scientificname": "Percaflavescens"
   },
   {
-    "Common Name":"Striped Bass                  ",
-    "Scientific name":"Morone saxatilis"
+    "CommonName": "StripedBass",
+    "Scientificname": "Moronesaxatilis"
   },
   {
-    "Common Name":"Black Seabass                 ",
-    "Scientific name":"Centropristis striatus"
+    "CommonName": "BlackSeabass",
+    "Scientificname": "Centropristisstriatus"
   },
   {
-    "Common Name":"Rock Seabass                  ",
-    "Scientific name":"Centropristis philadelphicus"
+    "CommonName": "RockSeabass",
+    "Scientificname": "Centropristisphiladelphicus"
   },
   {
-    "Common Name":"Almaco Jack                   ",
-    "Scientific name":"Seriola rivoliana"
+    "CommonName": "AlmacoJack",
+    "Scientificname": "Seriolarivoliana"
   },
   {
-    "Common Name":"Bluefish                      ",
-    "Scientific name":"Pomatomus saltatrix"
+    "CommonName": "Bluefish",
+    "Scientificname": "Pomatomussaltatrix"
   },
   {
-    "Common Name":"Banded Rudderfish             ",
-    "Scientific name":"Seriola zonata"
+    "CommonName": "BandedRudderfish",
+    "Scientificname": "Seriolazonata"
   },
   {
-    "Common Name":"Bank Seabass                  ",
-    "Scientific name":"Centropristis ocyurus"
+    "CommonName": "BankSeabass",
+    "Scientificname": "Centropristisocyurus"
   },
   {
-    "Common Name":"Bank Seabass                ",
-    "Scientific name":"Centropristis ocyurus"
+    "CommonName": "BankSeabass",
+    "Scientificname": "Centropristisocyurus"
   },
   {
-    "Common Name":"Striped Bass                  ",
-    "Scientific name":"Morone saxatilis"
+    "CommonName": "StripedBass",
+    "Scientificname": "Moronesaxatilis"
   },
   {
-    "Common Name":"Red Porgy                     ",
-    "Scientific name":"Pagrus pagrus"
+    "CommonName": "RedPorgy",
+    "Scientificname": "Pagruspagrus"
   },
   {
-    "Common Name":"Golden Redfish                ",
-    "Scientific name":"Sebastes marinus"
+    "CommonName": "GoldenRedfish",
+    "Scientificname": "Sebastesmarinus"
   },
   {
-    "Common Name":"Permit",
-    "Scientific name":"Trachinotus falcatus"
+    "CommonName": "Permit",
+    "Scientificname": "Trachinotusfalcatus"
   },
   {
-    "Common Name":"Kingfish",
-    "Scientific name":"Menticirrhus spp."
+    "CommonName": "Kingfish",
+    "Scientificname": "Menticirrhusspp."
   },
   {
-    "Common Name":"Tomtate                       ",
-    "Scientific name":"Haemulon aurolineatum"
+    "CommonName": "Tomtate",
+    "Scientificname": "Haemulonaurolineatum"
   },
   {
-    "Common Name":"White Grunt                   ",
-    "Scientific name":"Haemulon plumieri"
+    "CommonName": "WhiteGrunt",
+    "Scientificname": "Haemulonplumieri"
   },
   {
-    "Common Name":"Tomtate                       ",
-    "Scientific name":"Haemulon aurolineatum"
+    "CommonName": "Tomtate",
+    "Scientificname": "Haemulonaurolineatum"
   },
   {
-    "Common Name":"Little Tunny                  ",
-    "Scientific name":"Euthynnus alletteratus"
+    "CommonName": "LittleTunny",
+    "Scientificname": "Euthynnusalletteratus"
   },
   {
-    "Common Name":"Blue Runner                   ",
-    "Scientific name":"Caranx crysos"
+    "CommonName": "BlueRunner",
+    "Scientificname": "Caranxcrysos"
   },
   {
-    "Common Name":"Gafftopsail Catfish           ",
-    "Scientific name":"Bagre marinus"
+    "CommonName": "GafftopsailCatfish",
+    "Scientificname": "Bagremarinus"
   },
   {
-    "Common Name":"Atlantic Sailfish             ",
-    "Scientific name":"Istiophorus platypterus"
+    "CommonName": "AtlanticSailfish",
+    "Scientificname": "Istiophorusplatypterus"
   },
   {
-    "Common Name":"Pigfish                       ",
-    "Scientific name":"Orthopristis chrysoptera"
+    "CommonName": "Pigfish",
+    "Scientificname": "Orthopristischrysoptera"
   },
   {
-    "Common Name":"Spotted Seatrout              ",
-    "Scientific name":"Cynoscion nebulosus"
+    "CommonName": "SpottedSeatrout",
+    "Scientificname": "Cynoscionnebulosus"
   },
   {
-    "Common Name":"Pinfish                       ",
-    "Scientific name":"Lagodon rhomboides"
+    "CommonName": "Pinfish",
+    "Scientificname": "Lagodonrhomboides"
   },
   {
-    "Common Name":"Snook                         ",
-    "Scientific name":"Centropomus undecimalis"
+    "CommonName": "Snook",
+    "Scientificname": "Centropomusundecimalis"
   },
   {
-    "Common Name":"Windowpane                    ",
-    "Scientific name":"Scophthalmus aquosus"
+    "CommonName": "Windowpane",
+    "Scientificname": "Scophthalmusaquosus"
   },
   {
-    "Common Name":"American Sand Lance           ",
-    "Scientific name":"Ammodytes hexapterus"
+    "CommonName": "AmericanSandLance",
+    "Scientificname": "Ammodyteshexapterus"
   },
   {
-    "Common Name":"Windowpane                    ",
-    "Scientific name":"Scophthalmus aquosus"
+    "CommonName": "Windowpane",
+    "Scientificname": "Scophthalmusaquosus"
   },
   {
-    "Common Name":"Kingfish",
-    "Scientific name":"Menticirrhus spp."
+    "CommonName": "Kingfish",
+    "Scientificname": "Menticirrhusspp."
   },
   {
-    "Common Name":"Silver Perch                  ",
-    "Scientific name":"Bairdiella chrysura"
+    "CommonName": "SilverPerch",
+    "Scientificname": "Bairdiellachrysura"
   },
   {
-    "Common Name":"Dusky Shark                  ",
-    "Scientific name":"Carcharhinus obscurus"
+    "CommonName": "DuskyShark",
+    "Scientificname": "Carcharhinusobscurus"
   },
   {
-    "Common Name":"Spiny Dogfish                 ",
-    "Scientific name":"Squalis acanthias"
+    "CommonName": "SpinyDogfish",
+    "Scientificname": "Squalisacanthias"
   },
   {
-    "Common Name":"Silver Seatrout               ",
-    "Scientific name":"Cynoscion nothus"
+    "CommonName": "SilverSeatrout",
+    "Scientificname": "Cynoscionnothus"
   },
   {
-    "Common Name":"Red Drum",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Black Seabass                 ",
-    "Scientific name":"Centropristis striatus"
+    "CommonName": "BlackSeabass",
+    "Scientificname": "Centropristisstriatus"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Rock Seabass                  ",
-    "Scientific name":"Centropristis philadelphicus"
+    "CommonName": "RockSeabass",
+    "Scientificname": "Centropristisphiladelphicus"
   },
   {
-    "Common Name":"Sea Catfish                   ",
-    "Scientific name":"Arius felis"
+    "CommonName": "SeaCatfish",
+    "Scientificname": "Ariusfelis"
   },
   {
-    "Common Name":"Conger Eel                    ",
-    "Scientific name":"Conger oceanicus"
+    "CommonName": "CongerEel",
+    "Scientificname": "Congeroceanicus"
   },
   {
-    "Common Name":"Winter Flounder               ",
-    "Scientific name":"Pseudopleuronectes americanus"
+    "CommonName": "WinterFlounder",
+    "Scientificname": "Pseudopleuronectesamericanus"
   },
   {
-    "Common Name":"Kingfish",
-    "Scientific name":"Menticirrhus spp."
+    "CommonName": "Kingfish",
+    "Scientificname": "Menticirrhusspp."
   },
   {
-    "Common Name":"Northern Puffer               ",
-    "Scientific name":"Sphoeroides maculatus"
+    "CommonName": "NorthernPuffer",
+    "Scientificname": "Sphoeroidesmaculatus"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Cobia                         ",
-    "Scientific name":"Rachycentron canadum"
+    "CommonName": "Cobia",
+    "Scientificname": "Rachycentroncanadum"
   },
   {
-    "Common Name":"Sheepshead                    ",
-    "Scientific name":"Archosargus probatocephalus"
+    "CommonName": "Sheepshead",
+    "Scientificname": "Archosargusprobatocephalus"
   },
   {
-    "Common Name":"Tidewater Silverside          ",
-    "Scientific name":"Menidia beryllina"
+    "CommonName": "TidewaterSilverside",
+    "Scientificname": "Menidiaberyllina"
   },
   {
-    "Common Name":"Silver Perch                  ",
-    "Scientific name":"Bairdiella chrysura"
+    "CommonName": "SilverPerch",
+    "Scientificname": "Bairdiellachrysura"
   },
   {
-    "Common Name":"Spanish Mackerel              ",
-    "Scientific name":"Scomberomorus maculatus"
+    "CommonName": "SpanishMackerel",
+    "Scientificname": "Scomberomorusmaculatus"
   },
   {
-    "Common Name":"Silk Snapper                  ",
-    "Scientific name":"Lutjanus vivanus"
+    "CommonName": "SilkSnapper",
+    "Scientificname": "Lutjanusvivanus"
   },
   {
-    "Common Name":"Bonefish                      ",
-    "Scientific name":"Albula vulpes"
+    "CommonName": "Bonefish",
+    "Scientificname": "Albulavulpes"
   },
   {
-    "Common Name":"Atlantic Tarpon               ",
-    "Scientific name":"Tarpon atlantica"
+    "CommonName": "AtlanticTarpon",
+    "Scientificname": "Tarponatlantica"
   },
   {
-    "Common Name":"White Mullet                  ",
-    "Scientific name":"Mugil curema"
+    "CommonName": "WhiteMullet",
+    "Scientificname": "Mugilcurema"
   },
   {
-    "Common Name":"White Perch                  ",
-    "Scientific name":"Morone americana"
+    "CommonName": "WhitePerch",
+    "Scientificname": "Moroneamericana"
   },
   {
-    "Common Name":"Red Porgy                     ",
-    "Scientific name":"Pagrus pagrus"
+    "CommonName": "RedPorgy",
+    "Scientificname": "Pagruspagrus"
   },
   {
-    "Common Name":"Whitebone Porgy               ",
-    "Scientific name":"Calamus leucosteus"
+    "CommonName": "WhitebonePorgy",
+    "Scientificname": "Calamusleucosteus"
   },
   {
-    "Common Name":"Silver Seatrout               ",
-    "Scientific name":"Cynoscion nothus"
+    "CommonName": "SilverSeatrout",
+    "Scientificname": "Cynoscionnothus"
   },
   {
-    "Common Name":"Gulf Kingfish                 ",
-    "Scientific name":"Menticirrhus littoralis"
+    "CommonName": "GulfKingfish",
+    "Scientificname": "Menticirrhuslittoralis"
   },
   {
-    "Common Name":"Silver Hake                   ",
-    "Scientific name":"Merluccius bilinearis"
+    "CommonName": "SilverHake",
+    "Scientificname": "Merlucciusbilinearis"
   },
   {
-    "Common Name":"Goosefish                     ",
-    "Scientific name":"Lophius americanus"
+    "CommonName": "Goosefish",
+    "Scientificname": "Lophiusamericanus"
   },
   {
-    "Common Name":"Bluefish                      ",
-    "Scientific name":"Pomatomus saltatrix"
+    "CommonName": "Bluefish",
+    "Scientificname": "Pomatomussaltatrix"
   },
   {
-    "Common Name":"Ladyfish                      ",
-    "Scientific name":"Elops saurus"
+    "CommonName": "Ladyfish",
+    "Scientificname": "Elopssaurus"
   },
   {
-    "Common Name":"Skipjack Tuna                 ",
-    "Scientific name":"Katsuwonus pelamis"
+    "CommonName": "SkipjackTuna",
+    "Scientificname": "Katsuwonuspelamis"
   },
   {
-    "Common Name":"Bluefish                     ",
-    "Scientific name":"Pomatomus saltatrix"
+    "CommonName": "Bluefish",
+    "Scientificname": "Pomatomussaltatrix"
   },
   {
-    "Common Name":"Atlantic Hagfish              ",
-    "Scientific name":"Myinie glutinosa"
+    "CommonName": "AtlanticHagfish",
+    "Scientificname": "Myinieglutinosa"
   },
   {
-    "Common Name":"Atlantic Croaker             ",
-    "Scientific name":"Micropogon undulatus"
+    "CommonName": "AtlanticCroaker",
+    "Scientificname": "Micropogonundulatus"
   },
   {
-    "Common Name":"Tautog                       ",
-    "Scientific name":"Tautoga onitis"
+    "CommonName": "Tautog",
+    "Scientificname": "Tautogaonitis"
   },
   {
-    "Common Name":"King Mackerel",
-    "Scientific name":"Scomberomorus cavalla"
+    "CommonName": "KingMackerel",
+    "Scientificname": "Scomberomoruscavalla"
   },
   {
-    "Common Name":"King Mackerel                 ",
-    "Scientific name":"Scomberomorus cavalla"
+    "CommonName": "KingMackerel",
+    "Scientificname": "Scomberomoruscavalla"
   },
   {
-    "Common Name":"Bluefish",
-    "Scientific name":"Pomatomus saltatrix"
+    "CommonName": "Bluefish",
+    "Scientificname": "Pomatomussaltatrix"
   },
   {
-    "Common Name":"Winter Flounder               ",
-    "Scientific name":"Pseudopleuronectes americanus"
+    "CommonName": "WinterFlounder",
+    "Scientificname": "Pseudopleuronectesamericanus"
   },
   {
-    "Common Name":"Red Snapper                   ",
-    "Scientific name":"Lutjanus campechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscampechanus"
   },
   {
-    "Common Name":"Spotted Seatrout              ",
-    "Scientific name":"Cynoscion nebulosus"
+    "CommonName": "SpottedSeatrout",
+    "Scientificname": "Cynoscionnebulosus"
   },
   {
-    "Common Name":"Spotted Seatrout              ",
-    "Scientific name":"Cynoscion nebulosus"
+    "CommonName": "SpottedSeatrout",
+    "Scientificname": "Cynoscionnebulosus"
   },
   {
-    "Common Name":"Blue Runner",
-    "Scientific name":"Caranx crysos"
+    "CommonName": "BlueRunner",
+    "Scientificname": "Caranxcrysos"
   },
   {
-    "Common Name":"Atlantic Silverside           ",
-    "Scientific name":"Menidia menidia"
+    "CommonName": "AtlanticSilverside",
+    "Scientificname": "Menidiamenidia"
   },
   {
-    "Common Name":"Blacktip Shark                ",
-    "Scientific name":"Carcharhinus limbatus"
+    "CommonName": "BlacktipShark",
+    "Scientificname": "Carcharhinuslimbatus"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Lane Snapper                  ",
-    "Scientific name":"Lutjanus synagris"
+    "CommonName": "LaneSnapper",
+    "Scientificname": "Lutjanussynagris"
   },
   {
-    "Common Name":"Red Snapper",
-    "Scientific name":"Lutjanus campechanus"
+    "CommonName": "RedSnapper",
+    "Scientificname": "Lutjanuscampechanus"
   },
   {
-    "Common Name":"Red Drum                      ",
-    "Scientific name":"Sciaenops ocellata"
+    "CommonName": "RedDrum",
+    "Scientificname": "Sciaenopsocellata"
   },
   {
-    "Common Name":"Windowpane                    ",
-    "Scientific name":"Scophthalmus aquosus"
+    "CommonName": "Windowpane",
+    "Scientificname": "Scophthalmusaquosus"
   },
   {
-    "Common Name":"Jewfish                       ",
-    "Scientific name":"Epinephelus itajara"
+    "CommonName": "Jewfish",
+    "Scientificname": "Epinephelusitajara"
   },
   {
-    "Common Name":"Jewfish                       ",
-    "Scientific name":"Epinephelus itajara"
+    "CommonName": "Jewfish",
+    "Scientificname": "Epinephelusitajara"
   },
   {
-    "Common Name":"Spotted Seatrout              ",
-    "Scientific name":"Cynoscion nebulosus"
+    "CommonName": "SpottedSeatrout",
+    "Scientificname": "Cynoscionnebulosus"
   },
   {
-    "Common Name":"Atlantic Tarpon               ",
-    "Scientific name":"Megalops atlantica"
+    "CommonName": "AtlanticTarpon",
+    "Scientificname": "Megalopsatlantica"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Red Hake                      ",
-    "Scientific name":"Urophycis chuss"
+    "CommonName": "RedHake",
+    "Scientificname": "Urophycischuss"
   },
   {
-    "Common Name":"Silver Perch                  ",
-    "Scientific name":"Bairdiella chrysura"
+    "CommonName": "SilverPerch",
+    "Scientificname": "Bairdiellachrysura"
   },
   {
-    "Common Name":"Bank Seabass                  ",
-    "Scientific name":"Centropristis ocyurus"
+    "CommonName": "BankSeabass",
+    "Scientificname": "Centropristisocyurus"
   },
   {
-    "Common Name":"Pinfish                       ",
-    "Scientific name":"Lagodon rhomboides"
+    "CommonName": "Pinfish",
+    "Scientificname": "Lagodonrhomboides"
   },
   {
-    "Common Name":"Sand Perch                    ",
-    "Scientific name":"Diplectrum formosum"
+    "CommonName": "SandPerch",
+    "Scientificname": "Diplectrumformosum"
   },
   {
-    "Common Name":"White Perch                   ",
-    "Scientific name":"Morone americana"
+    "CommonName": "WhitePerch",
+    "Scientificname": "Moroneamericana"
   },
   {
-    "Common Name":"Speckled Hind                 ",
-    "Scientific name":"Epinephelus drummondhayi"
+    "CommonName": "SpeckledHind",
+    "Scientificname": "Epinephelusdrummondhayi"
   },
   {
-    "Common Name":"Red Porgy                     ",
-    "Scientific name":"Pagrus pagrus"
+    "CommonName": "RedPorgy",
+    "Scientificname": "Pagruspagrus"
   },
   {
-    "Common Name":"Skipjack Tuna                 ",
-    "Scientific name":"Katsuwonus pelamis"
+    "CommonName": "SkipjackTuna",
+    "Scientificname": "Katsuwonuspelamis"
   },
   {
-    "Common Name":"Yellow Perch                  ",
-    "Scientific name":"Perca flavescens"
+    "CommonName": "YellowPerch",
+    "Scientificname": "Percaflavescens"
   },
   {
-    "Common Name":"Striped Bass                  ",
-    "Scientific name":"Morone saxatilis"
+    "CommonName": "StripedBass",
+    "Scientificname": "Moronesaxatilis"
   },
   {
-    "Common Name":"Northern Puffer               ",
-    "Scientific name":"Sphoeroides maculatus"
+    "CommonName": "NorthernPuffer",
+    "Scientificname": "Sphoeroidesmaculatus"
   },
   {
-    "Common Name":"Silver Seatrout               ",
-    "Scientific name":"Cynoscion nothus"
+    "CommonName": "SilverSeatrout",
+    "Scientificname": "Cynoscionnothus"
   },
   {
-    "Common Name":"Silver Perch                  ",
-    "Scientific name":"Bairdiella chrysura"
+    "CommonName": "SilverPerch",
+    "Scientificname": "Bairdiellachrysura"
   },
   {
-    "Common Name":"Little Skate                  ",
-    "Scientific name":"Raja erinacea"
+    "CommonName": "LittleSkate",
+    "Scientificname": "Rajaerinacea"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Windowpane                    ",
-    "Scientific name":"Scophthalmus aquosus"
+    "CommonName": "Windowpane",
+    "Scientificname": "Scophthalmusaquosus"
   },
   {
-    "Common Name":"Hybrid Striped Bass           ",
-    "Scientific name":"Morone saxatilis x m.chrysops"
+    "CommonName": "HybridStripedBass",
+    "Scientificname": "Moronesaxatilisxm.chrysops"
   },
   {
-    "Common Name":"Silver Perch                  ",
-    "Scientific name":"Bairdiella chrysoura"
+    "CommonName": "SilverPerch",
+    "Scientificname": "Bairdiellachrysoura"
   },
   {
-    "Common Name":"Northern Puffer               ",
-    "Scientific name":"Sphoeroides maculatus"
+    "CommonName": "NorthernPuffer",
+    "Scientificname": "Sphoeroidesmaculatus"
   },
   {
-    "Common Name":"Northern Puffer               ",
-    "Scientific name":"Sphoeroides maculatus"
+    "CommonName": "NorthernPuffer",
+    "Scientificname": "Sphoeroidesmaculatus"
   },
   {
-    "Common Name":"Grey Triggerfish              ",
-    "Scientific name":"Balistes capriscus"
+    "CommonName": "GreyTriggerfish",
+    "Scientificname": "Balistescapriscus"
   },
   {
-    "Common Name":"Bluefish                      ",
-    "Scientific name":"Pomatomus saltatrix"
+    "CommonName": "Bluefish",
+    "Scientificname": "Pomatomussaltatrix"
   },
   {
-    "Common Name":"Ladyfish                      ",
-    "Scientific name":"Elops saurus"
+    "CommonName": "Ladyfish",
+    "Scientificname": "Elopssaurus"
   },
   {
-    "Common Name":"Atlantic Mackerel",
-    "Scientific name":"Scomber scombrus"
+    "CommonName": "AtlanticMackerel",
+    "Scientificname": "Scomberscombrus"
   },
   {
-    "Common Name":"Atlantic Tomcod              ",
-    "Scientific name":"Microgadus tomcod"
+    "CommonName": "AtlanticTomcod",
+    "Scientificname": "Microgadustomcod"
   },
   {
-    "Common Name":"Gafftopsail Catfish           ",
-    "Scientific name":"Bagre marinus"
+    "CommonName": "GafftopsailCatfish",
+    "Scientificname": "Bagremarinus"
   },
   {
-    "Common Name":"Jack Crevalle                 ",
-    "Scientific name":"Caranx hippos"
+    "CommonName": "JackCrevalle",
+    "Scientificname": "Caranxhippos"
   },
   {
-    "Common Name":"Seatrout",
-    "Scientific name":"Cynoscion spp."
+    "CommonName": "Seatrout",
+    "Scientificname": "Cynoscionspp."
   },
   {
-    "Common Name":"Warsaw Grouper                ",
-    "Scientific name":"Epinephelus nigritus"
+    "CommonName": "WarsawGrouper",
+    "Scientificname": "Epinephelusnigritus"
   },
   {
-    "Common Name":"Skipjack Tuna                 ",
-    "Scientific name":"Katsuwonus pelamis"
+    "CommonName": "SkipjackTuna",
+    "Scientificname": "Katsuwonuspelamis"
   },
   {
-    "Common Name":"Spotted Seatrout              ",
-    "Scientific name":"Cynoscion nebulosus"
+    "CommonName": "SpottedSeatrout",
+    "Scientificname": "Cynoscionnebulosus"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Scaled Sardine                ",
-    "Scientific name":"Harengula pensacolae"
+    "CommonName": "ScaledSardine",
+    "Scientificname": "Harengulapensacolae"
   },
   {
-    "Common Name":"Tautog                        ",
-    "Scientific name":"Tautoga onitis"
+    "CommonName": "Tautog",
+    "Scientificname": "Tautogaonitis"
   },
   {
-    "Common Name":"Silver Perch                  ",
-    "Scientific name":"Bairdiella chrysura"
+    "CommonName": "SilverPerch",
+    "Scientificname": "Bairdiellachrysura"
   },
   {
-    "Common Name":"Striped Bass                  ",
-    "Scientific name":"Morone saxatilis"
+    "CommonName": "StripedBass",
+    "Scientificname": "Moronesaxatilis"
   },
   {
-    "Common Name":"Silver Perch                  ",
-    "Scientific name":"Bairdiella chrysura"
+    "CommonName": "SilverPerch",
+    "Scientificname": "Bairdiellachrysura"
   },
   {
-    "Common Name":"American Shad                 ",
-    "Scientific name":"Alosa sapidissima"
+    "CommonName": "AmericanShad",
+    "Scientificname": "Alosasapidissima"
   },
   {
-    "Common Name":"Gray Snapper                  ",
-    "Scientific name":"Lutjanus griseus"
+    "CommonName": "GraySnapper",
+    "Scientificname": "Lutjanusgriseus"
   },
   {
-    "Common Name":"Whitebone Porgy            ",
-    "Scientific name":"Calamus leucosteus"
+    "CommonName": "WhitebonePorgy",
+    "Scientificname": "Calamusleucosteus"
   },
   {
-    "Common Name":"Red Porgy                   ",
-    "Scientific name":"Pagrus pagrus"
+    "CommonName": "RedPorgy",
+    "Scientificname": "Pagruspagrus"
   },
   {
-    "Common Name":"Sand Seatrout                 ",
-    "Scientific name":"Cynoscion arenarius"
+    "CommonName": "SandSeatrout",
+    "Scientificname": "Cynoscionarenarius"
   },
   {
-    "Common Name":"Silver Seatrout               ",
-    "Scientific name":"Cynoscion nothus"
+    "CommonName": "SilverSeatrout",
+    "Scientificname": "Cynoscionnothus"
   },
   {
-    "Common Name":"Gulf Kingfish                 ",
-    "Scientific name":"Menicirrhus littoralis"
+    "CommonName": "GulfKingfish",
+    "Scientificname": "Menicirrhuslittoralis"
   },
   {
-    "Common Name":"Silver Hake                   ",
-    "Scientific name":"Merluccius bilinearis"
+    "CommonName": "SilverHake",
+    "Scientificname": "Merlucciusbilinearis"
   },
   {
-    "Common Name":"Kingfish",
-    "Scientific name":"Menticirrhus spp."
+    "CommonName": "Kingfish",
+    "Scientificname": "Menticirrhusspp."
   },
   {
-    "Common Name":"Spotted Seatrout              ",
-    "Scientific name":"Cynoscion nebulosus"
+    "CommonName": "SpottedSeatrout",
+    "Scientificname": "Cynoscionnebulosus"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Silk Snapper                  ",
-    "Scientific name":"Lutjanus vivanus"
+    "CommonName": "SilkSnapper",
+    "Scientificname": "Lutjanusvivanus"
   },
   {
-    "Common Name":"Spot                          ",
-    "Scientific name":"Leiostomus xanthurus"
+    "CommonName": "Spot",
+    "Scientificname": "Leiostomusxanthurus"
   },
   {
-    "Common Name":"Weakfish                      ",
-    "Scientific name":"Cynoscion regalis"
+    "CommonName": "Weakfish",
+    "Scientificname": "Cynoscionregalis"
   },
   {
-    "Common Name":"Silver Perch                  ",
-    "Scientific name":"Bairdiella chrysura"
+    "CommonName": "SilverPerch",
+    "Scientificname": "Bairdiellachrysura"
   },
   {
-    "Common Name":"Yellow Jack                   ",
-    "Scientific name":"Caranx bartholomaei"
+    "CommonName": "YellowJack",
+    "Scientificname": "Caranxbartholomaei"
   },
   {
-    "Common Name":"Yellowtail Snapper            ",
-    "Scientific name":"Ocyurus chrysurus"
+    "CommonName": "YellowtailSnapper",
+    "Scientificname": "Ocyuruschrysurus"
   },
   {
-    "Common Name":"Jack Crevalle                 ",
-    "Scientific name":"Caranx hippos"
+    "CommonName": "JackCrevalle",
+    "Scientificname": "Caranxhippos"
   },
   {
-    "Common Name":"Atlantic Croaker              ",
-    "Scientific name":"Micropogon undulatus"
+    "CommonName": "AtlanticCroaker",
+    "Scientificname": "Micropogonundulatus"
   },
   {
-    "Common Name":"Albacore                        ",
-    "Scientific name":"Thunnus alalunga"
+    "CommonName": "Albacore",
+    "Scientificname": "Thunnusalalunga"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Mexican Rockfish                ",
-    "Scientific name":"Sebastes macdonaldi"
+    "CommonName": "MexicanRockfish",
+    "Scientificname": "Sebastesmacdonaldi"
   },
   {
-    "Common Name":"Bronzespotted Rockfish          ",
-    "Scientific name":"Sebastes gilli"
+    "CommonName": "BronzespottedRockfish",
+    "Scientificname": "Sebastesgilli"
   },
   {
-    "Common Name":"Mexican Rockfish                ",
-    "Scientific name":"Sebastes macdonaldi"
+    "CommonName": "MexicanRockfish",
+    "Scientificname": "Sebastesmacdonaldi"
   },
   {
-    "Common Name":"Mexican Rockfish                ",
-    "Scientific name":"Sebastes macdonaldi"
+    "CommonName": "MexicanRockfish",
+    "Scientificname": "Sebastesmacdonaldi"
   },
   {
-    "Common Name":"Rosy Rockfish                   ",
-    "Scientific name":"Sebastes rosaceus"
+    "CommonName": "RosyRockfish",
+    "Scientificname": "Sebastesrosaceus"
   },
   {
-    "Common Name":"Bank Rockfish                   ",
-    "Scientific name":"Sebastes rufus"
+    "CommonName": "BankRockfish",
+    "Scientificname": "Sebastesrufus"
   },
   {
-    "Common Name":"Speckled Rockfish               ",
-    "Scientific name":"Sebastes ovalis"
+    "CommonName": "SpeckledRockfish",
+    "Scientificname": "Sebastesovalis"
   },
   {
-    "Common Name":"White Croaker                   ",
-    "Scientific name":"Genyonemus lineatus"
+    "CommonName": "WhiteCroaker",
+    "Scientificname": "Genyonemuslineatus"
   },
   {
-    "Common Name":"Flag Rockfish                   ",
-    "Scientific name":"Sebastes rubrivinctus"
+    "CommonName": "FlagRockfish",
+    "Scientificname": "Sebastesrubrivinctus"
   },
   {
-    "Common Name":"Redbanded Rockfish              ",
-    "Scientific name":"Sebastes rubrivinctus"
+    "CommonName": "RedbandedRockfish",
+    "Scientificname": "Sebastesrubrivinctus"
   },
   {
-    "Common Name":"Ca. Halibut                     ",
-    "Scientific name":"Paralichthys californicus"
+    "CommonName": "Ca.Halibut",
+    "Scientificname": "Paralichthyscalifornicus"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Spotted Sand Bass               ",
-    "Scientific name":"Paralabrax maculatofasciatus"
+    "CommonName": "SpottedSandBass",
+    "Scientificname": "Paralabraxmaculatofasciatus"
   },
   {
-    "Common Name":"Squarespot Rockfish             ",
-    "Scientific name":"Sebastes hopkinsi"
+    "CommonName": "SquarespotRockfish",
+    "Scientificname": "Sebasteshopkinsi"
   },
   {
-    "Common Name":"Widow Rockfish                  ",
-    "Scientific name":"Sebastes entomelas"
+    "CommonName": "WidowRockfish",
+    "Scientificname": "Sebastesentomelas"
   },
   {
-    "Common Name":"Speckled Rockfish               ",
-    "Scientific name":"Sebastes ovalis"
+    "CommonName": "SpeckledRockfish",
+    "Scientificname": "Sebastesovalis"
   },
   {
-    "Common Name":"Sheephead                       ",
-    "Scientific name":"Semicossyphus pulcher"
+    "CommonName": "Sheephead",
+    "Scientificname": "Semicossyphuspulcher"
   },
   {
-    "Common Name":"Sablefish                       ",
-    "Scientific name":"Anoplopoma fimbria"
+    "CommonName": "Sablefish",
+    "Scientificname": "Anoplopomafimbria"
   },
   {
-    "Common Name":"Giant Sea Bass                  ",
-    "Scientific name":"Stereolepis gigas"
+    "CommonName": "GiantSeaBass",
+    "Scientificname": "Stereolepisgigas"
   },
   {
-    "Common Name":"Halfmoon                       ",
-    "Scientific name":"Medialuna californiensis"
+    "CommonName": "Halfmoon",
+    "Scientificname": "Medialunacaliforniensis"
   },
   {
-    "Common Name":"Blue Rockfish                   ",
-    "Scientific name":"Sebastes mystinus"
+    "CommonName": "BlueRockfish",
+    "Scientificname": "Sebastesmystinus"
   },
   {
-    "Common Name":"Pacific Mackerel                ",
-    "Scientific name":"Scomber japonicus"
+    "CommonName": "PacificMackerel",
+    "Scientificname": "Scomberjaponicus"
   },
   {
-    "Common Name":"Halfmoon                        ",
-    "Scientific name":"Medialuna californiensis"
+    "CommonName": "Halfmoon",
+    "Scientificname": "Medialunacaliforniensis"
   },
   {
-    "Common Name":"Halfmoon                        ",
-    "Scientific name":"Medialuna californiensis"
+    "CommonName": "Halfmoon",
+    "Scientificname": "Medialunacaliforniensis"
   },
   {
-    "Common Name":"Bonito                          ",
-    "Scientific name":"Sarda chiliensis"
+    "CommonName": "Bonito",
+    "Scientificname": "Sardachiliensis"
   },
   {
-    "Common Name":"Shortfin Mako Shark             ",
-    "Scientific name":"Isurus oxyrinchus"
+    "CommonName": "ShortfinMakoShark",
+    "Scientificname": "Isurusoxyrinchus"
   },
   {
-    "Common Name":"Greenblotched Rockfish          ",
-    "Scientific name":"Sebastes rosenblatti"
+    "CommonName": "GreenblotchedRockfish",
+    "Scientificname": "Sebastesrosenblatti"
   },
   {
-    "Common Name":"Greenspotted Rockfish           ",
-    "Scientific name":"Sebastes chlorostictus"
+    "CommonName": "GreenspottedRockfish",
+    "Scientificname": "Sebasteschlorostictus"
   },
   {
-    "Common Name":"Pink Rockfish                   ",
-    "Scientific name":"Sebastes eos"
+    "CommonName": "PinkRockfish",
+    "Scientificname": "Sebasteseos"
   },
   {
-    "Common Name":"Queenfish                       ",
-    "Scientific name":"Seriphus politus"
+    "CommonName": "Queenfish",
+    "Scientificname": "Seriphuspolitus"
   },
   {
-    "Common Name":"Brown Rockfish                  ",
-    "Scientific name":"Sebastes auriculatus"
+    "CommonName": "BrownRockfish",
+    "Scientificname": "Sebastesauriculatus"
   },
   {
-    "Common Name":"Kelp Bass                       ",
-    "Scientific name":"Paralabrax clathratus"
+    "CommonName": "KelpBass",
+    "Scientificname": "Paralabraxclathratus"
   },
   {
-    "Common Name":"White Sea Bass                  ",
-    "Scientific name":"Atractoscion nobilis"
+    "CommonName": "WhiteSeaBass",
+    "Scientificname": "Atractoscionnobilis"
   },
   {
-    "Common Name":"Pa. Staghorn Sculpin            ",
-    "Scientific name":"Leptocottus armatus"
+    "CommonName": "Pa.StaghornSculpin",
+    "Scientificname": "Leptocottusarmatus"
   },
   {
-    "Common Name":"White Croaker                   ",
-    "Scientific name":"Genyonemus lineatus"
+    "CommonName": "WhiteCroaker",
+    "Scientificname": "Genyonemuslineatus"
   },
   {
-    "Common Name":"Pa. Butterfish                  ",
-    "Scientific name":"Peprilus simillimus"
+    "CommonName": "Pa.Butterfish",
+    "Scientificname": "Peprilussimillimus"
   },
   {
-    "Common Name":"Sablefish                      ",
-    "Scientific name":"Anoplopoma fimbria"
+    "CommonName": "Sablefish",
+    "Scientificname": "Anoplopomafimbria"
   },
   {
-    "Common Name":"Rubberlip Seaperch              ",
-    "Scientific name":"Rhacochilus toxotes"
+    "CommonName": "RubberlipSeaperch",
+    "Scientificname": "Rhacochilustoxotes"
   },
   {
-    "Common Name":"Opaleye                         ",
-    "Scientific name":"Girella nigricans"
+    "CommonName": "Opaleye",
+    "Scientificname": "Girellanigricans"
   },
   {
-    "Common Name":"Cowcod                          ",
-    "Scientific name":"Sebastes levis"
+    "CommonName": "Cowcod",
+    "Scientificname": "Sebasteslevis"
   },
   {
-    "Common Name":"Kelp Bass                       ",
-    "Scientific name":"Paralabrax clathratus"
+    "CommonName": "KelpBass",
+    "Scientificname": "Paralabraxclathratus"
   },
   {
-    "Common Name":"Kelp Bass                       ",
-    "Scientific name":"Paralabrax clathratus"
+    "CommonName": "KelpBass",
+    "Scientificname": "Paralabraxclathratus"
   },
   {
-    "Common Name":"White Croaker                   ",
-    "Scientific name":"Genyonemus lineatus"
+    "CommonName": "WhiteCroaker",
+    "Scientificname": "Genyonemuslineatus"
   },
   {
-    "Common Name":"Ca. Corbina                     ",
-    "Scientific name":"Menticirrhus undulatus"
+    "CommonName": "Ca.Corbina",
+    "Scientificname": "Menticirrhusundulatus"
   },
   {
-    "Common Name":"Halfmoon                        ",
-    "Scientific name":"Medialuna californiensis"
+    "CommonName": "Halfmoon",
+    "Scientificname": "Medialunacaliforniensis"
   },
   {
-    "Common Name":"Halfmoon                        ",
-    "Scientific name":"Medialuna californiensis"
+    "CommonName": "Halfmoon",
+    "Scientificname": "Medialunacaliforniensis"
   },
   {
-    "Common Name":"Splitnose Rockfish              ",
-    "Scientific name":"Sebastes diploproa"
+    "CommonName": "SplitnoseRockfish",
+    "Scientificname": "Sebastesdiploproa"
   },
   {
-    "Common Name":"Shortspine Thornyhead           ",
-    "Scientific name":"Sebastalobus alascanus"
+    "CommonName": "ShortspineThornyhead",
+    "Scientificname": "Sebastalobusalascanus"
   },
   {
-    "Common Name":"Kelp Bass                       ",
-    "Scientific name":"Paralabrax clathratus"
+    "CommonName": "KelpBass",
+    "Scientificname": "Paralabraxclathratus"
   },
   {
-    "Common Name":"Chilipepper                     ",
-    "Scientific name":"Sebastes goodei"
+    "CommonName": "Chilipepper",
+    "Scientificname": "Sebastesgoodei"
   },
   {
-    "Common Name":"Black Croaker                   ",
-    "Scientific name":"Cheilotrema saturnum"
+    "CommonName": "BlackCroaker",
+    "Scientificname": "Cheilotremasaturnum"
   },
   {
-    "Common Name":"Sargo                           ",
-    "Scientific name":"Anisotremus davidsonii"
+    "CommonName": "Sargo",
+    "Scientificname": "Anisotremusdavidsonii"
   },
   {
-    "Common Name":"King Salmon                     ",
-    "Scientific name":"Oncorhynchus tshawytscha"
+    "CommonName": "KingSalmon",
+    "Scientificname": "Oncorhynchustshawytscha"
   },
   {
-    "Common Name":"Brown Rockfish                  ",
-    "Scientific name":"Sebastes auriculatus"
+    "CommonName": "BrownRockfish",
+    "Scientificname": "Sebastesauriculatus"
   },
   {
-    "Common Name":"Pacific Mackerel                ",
-    "Scientific name":"Scomber japonicus"
+    "CommonName": "PacificMackerel",
+    "Scientificname": "Scomberjaponicus"
   },
   {
-    "Common Name":"Copper Rockfish                 ",
-    "Scientific name":"Sebastes caurinus"
+    "CommonName": "CopperRockfish",
+    "Scientificname": "Sebastescaurinus"
   },
   {
-    "Common Name":"Brown Rockfish                  ",
-    "Scientific name":"Sebastes auriculatus"
+    "CommonName": "BrownRockfish",
+    "Scientificname": "Sebastesauriculatus"
   },
   {
-    "Common Name":"Treefish                        ",
-    "Scientific name":"Sebastes serriceps"
+    "CommonName": "Treefish",
+    "Scientificname": "Sebastesserriceps"
   },
   {
-    "Common Name":"Pacific Mackerel                ",
-    "Scientific name":"Scomber japonicus"
+    "CommonName": "PacificMackerel",
+    "Scientificname": "Scomberjaponicus"
   },
   {
-    "Common Name":"Cowcod                          ",
-    "Scientific name":"Sebastes levis"
+    "CommonName": "Cowcod",
+    "Scientificname": "Sebasteslevis"
   },
   {
-    "Common Name":"Cowcod                          ",
-    "Scientific name":"Sebastes levis"
+    "CommonName": "Cowcod",
+    "Scientificname": "Sebasteslevis"
   },
   {
-    "Common Name":"Drum Family                     ",
-    "Scientific name":"Sciaenidae"
+    "CommonName": "DrumFamily",
+    "Scientificname": "Sciaenidae"
   },
   {
-    "Common Name":"Rockfish Genus                  ",
-    "Scientific name":"Sebastes spp."
+    "CommonName": "RockfishGenus",
+    "Scientificname": "Sebastesspp."
   },
   {
-    "Common Name":"Dolphinfish                     ",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphinfish",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Ca. Halibut                     ",
-    "Scientific name":"Paralichthys californicus"
+    "CommonName": "Ca.Halibut",
+    "Scientificname": "Paralichthyscalifornicus"
   },
   {
-    "Common Name":"Dolphinfish                     ",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphinfish",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Drum Family                     ",
-    "Scientific name":"Sciaenidae"
+    "CommonName": "DrumFamily",
+    "Scientificname": "Sciaenidae"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Ca. Halibut                     ",
-    "Scientific name":"Paralichthys californicus"
+    "CommonName": "Ca.Halibut",
+    "Scientificname": "Paralichthyscalifornicus"
   },
   {
-    "Common Name":"Bank Rockfish                   ",
-    "Scientific name":"Sebastes rufus"
+    "CommonName": "BankRockfish",
+    "Scientificname": "Sebastesrufus"
   },
   {
-    "Common Name":"Bank Rockfish                   ",
-    "Scientific name":"Sebastes rufus"
+    "CommonName": "BankRockfish",
+    "Scientificname": "Sebastesrufus"
   },
   {
-    "Common Name":"Ca. Halibut                     ",
-    "Scientific name":"Paralichthys californicus"
+    "CommonName": "Ca.Halibut",
+    "Scientificname": "Paralichthyscalifornicus"
   },
   {
-    "Common Name":"Yellowtail                      ",
-    "Scientific name":"Seriola lalandi"
+    "CommonName": "Yellowtail",
+    "Scientificname": "Seriolalalandi"
   },
   {
-    "Common Name":"Giant Sea Bass                  ",
-    "Scientific name":"Stereolepis gigas"
+    "CommonName": "GiantSeaBass",
+    "Scientificname": "Stereolepisgigas"
   },
   {
-    "Common Name":"Pacific Mackerel                ",
-    "Scientific name":"Scomber japonicus"
+    "CommonName": "PacificMackerel",
+    "Scientificname": "Scomberjaponicus"
   },
   {
-    "Common Name":"Lingcod                         ",
-    "Scientific name":"Ophiodon elongatus"
+    "CommonName": "Lingcod",
+    "Scientificname": "Ophiodonelongatus"
   },
   {
-    "Common Name":"Sheephead                       ",
-    "Scientific name":"Semicossyphus pulcher"
+    "CommonName": "Sheephead",
+    "Scientificname": "Semicossyphuspulcher"
   },
   {
-    "Common Name":"Garibaldi                       ",
-    "Scientific name":"Hypsypops rubicundus"
+    "CommonName": "Garibaldi",
+    "Scientificname": "Hypsypopsrubicundus"
   },
   {
-    "Common Name":"Grass Rockfish                  ",
-    "Scientific name":"Sebastes rastrelliger"
+    "CommonName": "GrassRockfish",
+    "Scientificname": "Sebastesrastrelliger"
   },
   {
-    "Common Name":"Pacific Mackerel                ",
-    "Scientific name":"Scomber japonicus"
+    "CommonName": "PacificMackerel",
+    "Scientificname": "Scomberjaponicus"
   },
   {
-    "Common Name":"Pacific Mackerel               ",
-    "Scientific name":"Scomber japonicus"
+    "CommonName": "PacificMackerel",
+    "Scientificname": "Scomberjaponicus"
   },
   {
-    "Common Name":"Spiny Dogfish                   ",
-    "Scientific name":"Squalus acanthias"
+    "CommonName": "SpinyDogfish",
+    "Scientificname": "Squalusacanthias"
   },
   {
-    "Common Name":"Lingcod                         ",
-    "Scientific name":"Ophiodon elongatus"
+    "CommonName": "Lingcod",
+    "Scientificname": "Ophiodonelongatus"
   },
   {
-    "Common Name":"Bocaccio                        ",
-    "Scientific name":"Sebastes paucispinis"
+    "CommonName": "Bocaccio",
+    "Scientificname": "Sebastespaucispinis"
   },
   {
-    "Common Name":"Barred Sand Bass                ",
-    "Scientific name":"Paralabrax nebulifer"
+    "CommonName": "BarredSandBass",
+    "Scientificname": "Paralabraxnebulifer"
   },
   {
-    "Common Name":"Swordspine Rockfish             ",
-    "Scientific name":"Sebastes ensifer"
+    "CommonName": "SwordspineRockfish",
+    "Scientificname": "Sebastesensifer"
   },
   {
-    "Common Name":"Queenfish                       ",
-    "Scientific name":"Seriphus politus"
+    "CommonName": "Queenfish",
+    "Scientificname": "Seriphuspolitus"
   },
   {
-    "Common Name":"Rock Wrasse                     ",
-    "Scientific name":"Halichoeres semicinctus"
+    "CommonName": "RockWrasse",
+    "Scientificname": "Halichoeressemicinctus"
   },
   {
-    "Common Name":"Senorita                        ",
-    "Scientific name":"Oxyjulis californica"
+    "CommonName": "Senorita",
+    "Scientificname": "Oxyjuliscalifornica"
   },
   {
-    "Common Name":"Speckled Rockfish               ",
-    "Scientific name":"Sebastes ovalis"
+    "CommonName": "SpeckledRockfish",
+    "Scientificname": "Sebastesovalis"
   },
   {
-    "Common Name":"Opaleye                         ",
-    "Scientific name":"Girella nigricans"
+    "CommonName": "Opaleye",
+    "Scientificname": "Girellanigricans"
   },
   {
-    "Common Name":"Olive Rockfish                  ",
-    "Scientific name":"Sebastes serranoides"
+    "CommonName": "OliveRockfish",
+    "Scientificname": "Sebastesserranoides"
   },
   {
-    "Common Name":"Yellowtail Rockfish             ",
-    "Scientific name":"Sebastes flavidus"
+    "CommonName": "YellowtailRockfish",
+    "Scientificname": "Sebastesflavidus"
   },
   {
-    "Common Name":"Olive Rockfish                  ",
-    "Scientific name":"Sebastes serranoides"
+    "CommonName": "OliveRockfish",
+    "Scientificname": "Sebastesserranoides"
   },
   {
-    "Common Name":"Yellowtail Rockfish             ",
-    "Scientific name":"Sebastes flavidus"
+    "CommonName": "YellowtailRockfish",
+    "Scientificname": "Sebastesflavidus"
   },
   {
-    "Common Name":"White Croaker                   ",
-    "Scientific name":"Genyonemus lineatus"
+    "CommonName": "WhiteCroaker",
+    "Scientificname": "Genyonemuslineatus"
   },
   {
-    "Common Name":"Lingcod                         ",
-    "Scientific name":"Ophiodon elongatus"
+    "CommonName": "Lingcod",
+    "Scientificname": "Ophiodonelongatus"
   },
   {
-    "Common Name":"Treefish                        ",
-    "Scientific name":"Sebastes serriceps"
+    "CommonName": "Treefish",
+    "Scientificname": "Sebastesserriceps"
   },
   {
-    "Common Name":"Treefish                        ",
-    "Scientific name":"Sebastes serriceps"
+    "CommonName": "Treefish",
+    "Scientificname": "Sebastesserriceps"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Albacore                        ",
-    "Scientific name":"Thunnus alalunga"
+    "CommonName": "Albacore",
+    "Scientificname": "Thunnusalalunga"
   },
   {
-    "Common Name":"Bank Rockfish                   ",
-    "Scientific name":"Sebastes rufus"
+    "CommonName": "BankRockfish",
+    "Scientificname": "Sebastesrufus"
   },
   {
-    "Common Name":"Dolphinfish                     ",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphinfish",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Shortfin Mako Shark             ",
-    "Scientific name":"Isurus oxyrinchus"
+    "CommonName": "ShortfinMakoShark",
+    "Scientificname": "Isurusoxyrinchus"
   },
   {
-    "Common Name":"Bonito                          ",
-    "Scientific name":"Sarda chiliensis"
+    "CommonName": "Bonito",
+    "Scientificname": "Sardachiliensis"
   },
   {
-    "Common Name":"Bocaccio                        ",
-    "Scientific name":"Sebastes paucispinis"
+    "CommonName": "Bocaccio",
+    "Scientificname": "Sebastespaucispinis"
   },
   {
-    "Common Name":"Bonito                          ",
-    "Scientific name":"Sarda chiliensis"
+    "CommonName": "Bonito",
+    "Scientificname": "Sardachiliensis"
   },
   {
-    "Common Name":"Cowcod                          ",
-    "Scientific name":"Sebastes levis"
+    "CommonName": "Cowcod",
+    "Scientificname": "Sebasteslevis"
   },
   {
-    "Common Name":"Yellowtail                      ",
-    "Scientific name":"Seriola lalandi"
+    "CommonName": "Yellowtail",
+    "Scientificname": "Seriolalalandi"
   },
   {
-    "Common Name":"Squarespot Rockfish             ",
-    "Scientific name":"Sebastes hopkinsi"
+    "CommonName": "SquarespotRockfish",
+    "Scientificname": "Sebasteshopkinsi"
   },
   {
-    "Common Name":"Copper Rockfish                 ",
-    "Scientific name":"Sebastes caurinus"
+    "CommonName": "CopperRockfish",
+    "Scientificname": "Sebastescaurinus"
   },
   {
-    "Common Name":"Hake                            ",
-    "Scientific name":"Merluccius productus"
+    "CommonName": "Hake",
+    "Scientificname": "Merlucciusproductus"
   },
   {
-    "Common Name":"Mola                            ",
-    "Scientific name":"Mola mola"
+    "CommonName": "Mola",
+    "Scientificname": "Molamola"
   },
   {
-    "Common Name":"Kelp Rockfish                   ",
-    "Scientific name":"Sebastes atrovirens"
+    "CommonName": "KelpRockfish",
+    "Scientificname": "Sebastesatrovirens"
   },
   {
-    "Common Name":"Brown Rockfish                  ",
-    "Scientific name":"Sebastes auriculatus"
+    "CommonName": "BrownRockfish",
+    "Scientificname": "Sebastesauriculatus"
   },
   {
-    "Common Name":"White Croaker                   ",
-    "Scientific name":"Genyonemus lineatus"
+    "CommonName": "WhiteCroaker",
+    "Scientificname": "Genyonemuslineatus"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Grass Rockfish                 ",
-    "Scientific name":"Sebastes rastrelliger"
+    "CommonName": "GrassRockfish",
+    "Scientificname": "Sebastesrastrelliger"
   },
   {
-    "Common Name":"Albacore                        ",
-    "Scientific name":"Thunnus alalunga"
+    "CommonName": "Albacore",
+    "Scientificname": "Thunnusalalunga"
   },
   {
-    "Common Name":"Spiny Dogfish                   ",
-    "Scientific name":"Squalus acanthias"
+    "CommonName": "SpinyDogfish",
+    "Scientificname": "Squalusacanthias"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Spiny Dogfish                   ",
-    "Scientific name":"Squalus acanthias"
+    "CommonName": "SpinyDogfish",
+    "Scientificname": "Squalusacanthias"
   },
   {
-    "Common Name":"Greenstriped Rockfish           ",
-    "Scientific name":"Sebastes elongatus"
+    "CommonName": "GreenstripedRockfish",
+    "Scientificname": "Sebasteselongatus"
   },
   {
-    "Common Name":"Kelp Bass                       ",
-    "Scientific name":"Paralabrax clathratus"
+    "CommonName": "KelpBass",
+    "Scientificname": "Paralabraxclathratus"
   },
   {
-    "Common Name":"Pa. Butterfish                  ",
-    "Scientific name":"Peprilus simillimus"
+    "CommonName": "Pa.Butterfish",
+    "Scientificname": "Peprilussimillimus"
   },
   {
-    "Common Name":"Ocean Whitefish                ",
-    "Scientific name":"Caulolatilus princeps"
+    "CommonName": "OceanWhitefish",
+    "Scientificname": "Caulolatilusprinceps"
   },
   {
-    "Common Name":"Blue Rockfish                   ",
-    "Scientific name":"Sebastes mystinus"
+    "CommonName": "BlueRockfish",
+    "Scientificname": "Sebastesmystinus"
   },
   {
-    "Common Name":"Ca. Scorpionfish                ",
-    "Scientific name":"Scorpaena guttata"
+    "CommonName": "Ca.Scorpionfish",
+    "Scientificname": "Scorpaenaguttata"
   },
   {
-    "Common Name":"Canary Rockfish                 ",
-    "Scientific name":"Sebastes pinniger"
+    "CommonName": "CanaryRockfish",
+    "Scientificname": "Sebastespinniger"
   },
   {
-    "Common Name":"Vermilion Rockfish             ",
-    "Scientific name":"Sebastes miniatus"
+    "CommonName": "VermilionRockfish",
+    "Scientificname": "Sebastesminiatus"
   },
   {
-    "Common Name":"Canary Rockfish                 ",
-    "Scientific name":"Sebastes pinniger"
+    "CommonName": "CanaryRockfish",
+    "Scientificname": "Sebastespinniger"
   },
   {
-    "Common Name":"Rockfish Genus                  ",
-    "Scientific name":"Sebastes spp."
+    "CommonName": "RockfishGenus",
+    "Scientificname": "Sebastesspp."
   },
   {
-    "Common Name":"Vermilion Rockfish              ",
-    "Scientific name":"Sebastes miniatus"
+    "CommonName": "VermilionRockfish",
+    "Scientificname": "Sebastesminiatus"
   },
   {
-    "Common Name":"Bocaccio                        ",
-    "Scientific name":"Sebastes paucispinis"
+    "CommonName": "Bocaccio",
+    "Scientificname": "Sebastespaucispinis"
   },
   {
-    "Common Name":"Canary Rockfish                 ",
-    "Scientific name":"Sebastes pinniger"
+    "CommonName": "CanaryRockfish",
+    "Scientificname": "Sebastespinniger"
   },
   {
-    "Common Name":"Vermilion Rockfish              ",
-    "Scientific name":"Sebastes miniatus"
+    "CommonName": "VermilionRockfish",
+    "Scientificname": "Sebastesminiatus"
   },
   {
-    "Common Name":"Blue Rockfish                   ",
-    "Scientific name":"Sebastes mystinus"
+    "CommonName": "BlueRockfish",
+    "Scientificname": "Sebastesmystinus"
   },
   {
-    "Common Name":"Rosy Rockfish                   ",
-    "Scientific name":"Sebastes rosaceus"
+    "CommonName": "RosyRockfish",
+    "Scientificname": "Sebastesrosaceus"
   },
   {
-    "Common Name":"Gopher Rockfish                 ",
-    "Scientific name":"Sebastes carnatus"
+    "CommonName": "GopherRockfish",
+    "Scientificname": "Sebastescarnatus"
   },
   {
-    "Common Name":"Grass Rockfish                  ",
-    "Scientific name":"Sebastes rastrelliger"
+    "CommonName": "GrassRockfish",
+    "Scientificname": "Sebastesrastrelliger"
   },
   {
-    "Common Name":"Rockfish Genus                  ",
-    "Scientific name":"Sebastes spp."
+    "CommonName": "RockfishGenus",
+    "Scientificname": "Sebastesspp."
   },
   {
-    "Common Name":"Drum Family                     ",
-    "Scientific name":"Sciaenidae"
+    "CommonName": "DrumFamily",
+    "Scientificname": "Sciaenidae"
   },
   {
-    "Common Name":"Drum Family                     ",
-    "Scientific name":"Sciaenidae"
+    "CommonName": "DrumFamily",
+    "Scientificname": "Sciaenidae"
   },
   {
-    "Common Name":"Rubberlip Seaperch              ",
-    "Scientific name":"Rhacochilus toxotes"
+    "CommonName": "RubberlipSeaperch",
+    "Scientificname": "Rhacochilustoxotes"
   },
   {
-    "Common Name":"Sablefish                       ",
-    "Scientific name":"Anoplopoma fimbria"
+    "CommonName": "Sablefish",
+    "Scientificname": "Anoplopomafimbria"
   },
   {
-    "Common Name":"Bocaccio                        ",
-    "Scientific name":"Sebastes paucispinis"
+    "CommonName": "Bocaccio",
+    "Scientificname": "Sebastespaucispinis"
   },
   {
-    "Common Name":"Barred Sand Bass                ",
-    "Scientific name":"Paralabrax nebulifer"
+    "CommonName": "BarredSandBass",
+    "Scientificname": "Paralabraxnebulifer"
   },
   {
-    "Common Name":"Brown Smoothhound               ",
-    "Scientific name":"Mustelus henlei"
+    "CommonName": "BrownSmoothhound",
+    "Scientificname": "Mustelushenlei"
   },
   {
-    "Common Name":"Gray Smoothhound                ",
-    "Scientific name":"Mustelus californicus"
+    "CommonName": "GraySmoothhound",
+    "Scientificname": "Musteluscalifornicus"
   },
   {
-    "Common Name":"Shovelnose Guitarfish           ",
-    "Scientific name":"Rhinobatos productus"
+    "CommonName": "ShovelnoseGuitarfish",
+    "Scientificname": "Rhinobatosproductus"
   },
   {
-    "Common Name":"Barred Sand Bass                ",
-    "Scientific name":"Paralabrax nebulifer"
+    "CommonName": "BarredSandBass",
+    "Scientificname": "Paralabraxnebulifer"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Ca. Scorpionfish                ",
-    "Scientific name":"Scorpaena guttata"
+    "CommonName": "Ca.Scorpionfish",
+    "Scientificname": "Scorpaenaguttata"
   },
   {
-    "Common Name":"Rockfish Genus                  ",
-    "Scientific name":"Sebastes spp."
+    "CommonName": "RockfishGenus",
+    "Scientificname": "Sebastesspp."
   },
   {
-    "Common Name":"Ca. Scorpionfish                ",
-    "Scientific name":"Scorpaena guttata"
+    "CommonName": "Ca.Scorpionfish",
+    "Scientificname": "Scorpaenaguttata"
   },
   {
-    "Common Name":"Queenfish                       ",
-    "Scientific name":"Seriphus politus"
+    "CommonName": "Queenfish",
+    "Scientificname": "Seriphuspolitus"
   },
   {
-    "Common Name":"Sablefish                       ",
-    "Scientific name":"Anoplopoma fimbria"
+    "CommonName": "Sablefish",
+    "Scientificname": "Anoplopomafimbria"
   },
   {
-    "Common Name":"White Sea Bass                  ",
-    "Scientific name":"Atractoscion nobilis"
+    "CommonName": "WhiteSeaBass",
+    "Scientificname": "Atractoscionnobilis"
   },
   {
-    "Common Name":"Bocaccio                        ",
-    "Scientific name":"Sebastes paucispinis"
+    "CommonName": "Bocaccio",
+    "Scientificname": "Sebastespaucispinis"
   },
   {
-    "Common Name":"White Croaker                   ",
-    "Scientific name":"Genyonemus lineatus"
+    "CommonName": "WhiteCroaker",
+    "Scientificname": "Genyonemuslineatus"
   },
   {
-    "Common Name":"Sheephead                       ",
-    "Scientific name":"Semicossyphus pulcher"
+    "CommonName": "Sheephead",
+    "Scientificname": "Semicossyphuspulcher"
   },
   {
-    "Common Name":"Coho Salmon                     ",
-    "Scientific name":"Oncorhynchus kisutch"
+    "CommonName": "CohoSalmon",
+    "Scientificname": "Oncorhynchuskisutch"
   },
   {
-    "Common Name":"King Salmon                     ",
-    "Scientific name":"Oncorhynchus tshawytscha"
+    "CommonName": "KingSalmon",
+    "Scientificname": "Oncorhynchustshawytscha"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Bocaccio                        ",
-    "Scientific name":"Sebastes paucispinis"
+    "CommonName": "Bocaccio",
+    "Scientificname": "Sebastespaucispinis"
   },
   {
-    "Common Name":"Brown Smoothhound               ",
-    "Scientific name":"Mustelus henlei"
+    "CommonName": "BrownSmoothhound",
+    "Scientificname": "Mustelushenlei"
   },
   {
-    "Common Name":"Gray Smoothhound                ",
-    "Scientific name":"Mustelus californicus"
+    "CommonName": "GraySmoothhound",
+    "Scientificname": "Musteluscalifornicus"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Jack Mackerel                   ",
-    "Scientific name":"Trachurus symmetricus"
+    "CommonName": "JackMackerel",
+    "Scientificname": "Trachurussymmetricus"
   },
   {
-    "Common Name":"Jack Mackerel                   ",
-    "Scientific name":"Trachurus symmetricus"
+    "CommonName": "JackMackerel",
+    "Scientificname": "Trachurussymmetricus"
   },
   {
-    "Common Name":"Spotted Sand Bass               ",
-    "Scientific name":"Paralabrax maculatofasciatus"
+    "CommonName": "SpottedSandBass",
+    "Scientificname": "Paralabraxmaculatofasciatus"
   },
   {
-    "Common Name":"Gopher Rockfish                 ",
-    "Scientific name":"Sebastes carnatus"
+    "CommonName": "GopherRockfish",
+    "Scientificname": "Sebastescarnatus"
   },
   {
-    "Common Name":"Spotfin Croaker                 ",
-    "Scientific name":"Roncador stearnsii"
+    "CommonName": "SpotfinCroaker",
+    "Scientificname": "Roncadorstearnsii"
   },
   {
-    "Common Name":"Spotted Sand Bass               ",
-    "Scientific name":"Paralabrax maculatofasciatus"
+    "CommonName": "SpottedSandBass",
+    "Scientificname": "Paralabraxmaculatofasciatus"
   },
   {
-    "Common Name":"Pa. Staghorn Sculpin            ",
-    "Scientific name":"Leptocottus armatus"
+    "CommonName": "Pa.StaghornSculpin",
+    "Scientificname": "Leptocottusarmatus"
   },
   {
-    "Common Name":"Greenblotched Rockfish          ",
-    "Scientific name":"Sebastes rosenblatti"
+    "CommonName": "GreenblotchedRockfish",
+    "Scientificname": "Sebastesrosenblatti"
   },
   {
-    "Common Name":"Greenspotted Rockfish           ",
-    "Scientific name":"Sebastes chlorostictus"
+    "CommonName": "GreenspottedRockfish",
+    "Scientificname": "Sebasteschlorostictus"
   },
   {
-    "Common Name":"Pink Rockfish                   ",
-    "Scientific name":"Sebastes eos"
+    "CommonName": "PinkRockfish",
+    "Scientificname": "Sebasteseos"
   },
   {
-    "Common Name":"Rainbow Trout                   ",
-    "Scientific name":"Salmo gairdnerii"
+    "CommonName": "RainbowTrout",
+    "Scientificname": "Salmogairdnerii"
   },
   {
-    "Common Name":"Barracuda                       ",
-    "Scientific name":"Sphyraena argentea"
+    "CommonName": "Barracuda",
+    "Scientificname": "Sphyraenaargentea"
   },
   {
-    "Common Name":"Greenstriped Rockfish           ",
-    "Scientific name":"Sebastes elongatus"
+    "CommonName": "GreenstripedRockfish",
+    "Scientificname": "Sebasteselongatus"
   },
   {
-    "Common Name":"Rosy Rockfish                   ",
-    "Scientific name":"Sebastes rosaceus"
+    "CommonName": "RosyRockfish",
+    "Scientificname": "Sebastesrosaceus"
   },
   {
-    "Common Name":"Kelp Rockfish                   ",
-    "Scientific name":"Sebastes atrovirens"
+    "CommonName": "KelpRockfish",
+    "Scientificname": "Sebastesatrovirens"
   },
   {
-    "Common Name":"Mola                            ",
-    "Scientific name":"Mola mola"
+    "CommonName": "Mola",
+    "Scientificname": "Molamola"
   },
   {
-    "Common Name":"Yellowtail                      ",
-    "Scientific name":"Seriola lalandi"
+    "CommonName": "Yellowtail",
+    "Scientificname": "Seriolalalandi"
   },
   {
-    "Common Name":"Skates & Rays                   ",
-    "Scientific name":"Rajidae"
+    "CommonName": "Skates&Rays",
+    "Scientificname": "Rajidae"
   },
   {
-    "Common Name":"Pacific Mackerel                ",
-    "Scientific name":"Scomber japonicus"
+    "CommonName": "PacificMackerel",
+    "Scientificname": "Scomberjaponicus"
   },
   {
-    "Common Name":"White Croaker                   ",
-    "Scientific name":"Genyonemus lineatus"
+    "CommonName": "WhiteCroaker",
+    "Scientificname": "Genyonemuslineatus"
   },
   {
-    "Common Name":"White Croaker                   ",
-    "Scientific name":"Genyonemus lineatus"
+    "CommonName": "WhiteCroaker",
+    "Scientificname": "Genyonemuslineatus"
   },
   {
-    "Common Name":"Mexican Rockfish                ",
-    "Scientific name":"Sebastes macdonaldi"
+    "CommonName": "MexicanRockfish",
+    "Scientificname": "Sebastesmacdonaldi"
   },
   {
-    "Common Name":"Bronzespotted Rockfish          ",
-    "Scientific name":"Sebastes gilli"
+    "CommonName": "BronzespottedRockfish",
+    "Scientificname": "Sebastesgilli"
   },
   {
-    "Common Name":"Greenblotched Rockfish          ",
-    "Scientific name":"Sebastes rosenblatti"
+    "CommonName": "GreenblotchedRockfish",
+    "Scientificname": "Sebastesrosenblatti"
   },
   {
-    "Common Name":"Greenspotted Rockfish           ",
-    "Scientific name":"Sebastes chlorostictus"
+    "CommonName": "GreenspottedRockfish",
+    "Scientificname": "Sebasteschlorostictus"
   },
   {
-    "Common Name":"Pink Rockfish                  ",
-    "Scientific name":"Sebastes eos"
+    "CommonName": "PinkRockfish",
+    "Scientificname": "Sebasteseos"
   },
   {
-    "Common Name":"White Sea Bass                  ",
-    "Scientific name":"Atractoscion nobilis"
+    "CommonName": "WhiteSeaBass",
+    "Scientificname": "Atractoscionnobilis"
   },
   {
-    "Common Name":"Ocean Whitefish                 ",
-    "Scientific name":"Caulolatilus princeps"
+    "CommonName": "OceanWhitefish",
+    "Scientificname": "Caulolatilusprinceps"
   },
   {
-    "Common Name":"Bocaccio                        ",
-    "Scientific name":"Sebastes paucispinis"
+    "CommonName": "Bocaccio",
+    "Scientificname": "Sebastespaucispinis"
   },
   {
-    "Common Name":"Yellowtail                      ",
-    "Scientific name":"Seriola lalandi"
+    "CommonName": "Yellowtail",
+    "Scientificname": "Seriolalalandi"
   },
   {
-    "Common Name":"Yellowtail                      ",
-    "Scientific name":"Seriola lalandi"
+    "CommonName": "Yellowtail",
+    "Scientificname": "Seriolalalandi"
   },
   {
-    "Common Name":"Yellowtail                      ",
-    "Scientific name":"Seriola lalandi"
+    "CommonName": "Yellowtail",
+    "Scientificname": "Seriolalalandi"
   },
   {
-    "Common Name":"Sablefish                       ",
-    "Scientific name":"Anoplopoma fimbria"
+    "CommonName": "Sablefish",
+    "Scientificname": "Anoplopomafimbria"
   },
   {
-    "Common Name":"Black & Yellow Rockfish         ",
-    "Scientific name":"Sebastes chrysomelas"
+    "CommonName": "Black&YellowRockfish",
+    "Scientificname": "Sebasteschrysomelas"
   },
   {
-    "Common Name":"Billfish Family              ",
-    "Scientific name":"Istiophoridae"
+    "CommonName": "BillfishFamily",
+    "Scientificname": "Istiophoridae"
   },
   {
-    "Common Name":"Hawaiian Hogfish              ",
-    "Scientific name":"Bodianus bilunulatus"
+    "CommonName": "HawaiianHogfish",
+    "Scientificname": "Bodianusbilunulatus"
   },
   {
-    "Common Name":"Houndfish                     ",
-    "Scientific name":"Tylosurus crocodilus"
+    "CommonName": "Houndfish",
+    "Scientificname": "Tylosuruscrocodilus"
   },
   {
-    "Common Name":"Keeltail Needlefish           ",
-    "Scientific name":"Platybelone argalus"
+    "CommonName": "KeeltailNeedlefish",
+    "Scientificname": "Platybeloneargalus"
   },
   {
-    "Common Name":"Yellowfin Tuna                ",
-    "Scientific name":"Thunnus albacares"
+    "CommonName": "YellowfinTuna",
+    "Scientificname": "Thunnusalbacares"
   },
   {
-    "Common Name":"Bluefin Tuna                  ",
-    "Scientific name":"Thunnus thynnus"
+    "CommonName": "BluefinTuna",
+    "Scientificname": "Thunnusthynnus"
   },
   {
-    "Common Name":"Albacore                      ",
-    "Scientific name":"Thunnus alalunga"
+    "CommonName": "Albacore",
+    "Scientificname": "Thunnusalalunga"
   },
   {
-    "Common Name":"Mackerel Family ",
-    "Scientific name":"Scombridae"
+    "CommonName": "MackerelFamily",
+    "Scientificname": "Scombridae"
   },
   {
-    "Common Name":"Hawaiian Flagtail             ",
-    "Scientific name":"Kuhlia sandvicensis"
+    "CommonName": "HawaiianFlagtail",
+    "Scientificname": "Kuhliasandvicensis"
   },
   {
-    "Common Name":"Skipjack Tuna                 ",
-    "Scientific name":"Katsuwonus pelamis"
+    "CommonName": "SkipjackTuna",
+    "Scientificname": "Katsuwonuspelamis"
   },
   {
-    "Common Name":"Bigeye Scad                   ",
-    "Scientific name":"Selar crumenophthalmus"
+    "CommonName": "BigeyeScad",
+    "Scientificname": "Selarcrumenophthalmus"
   },
   {
-    "Common Name":"Saber Squirrelfish            ",
-    "Scientific name":"Sargocentron spiniferum"
+    "CommonName": "SaberSquirrelfish",
+    "Scientificname": "Sargocentronspiniferum"
   },
   {
-    "Common Name":"Yellowstriped Squirrelfish    ",
-    "Scientific name":"Holocentrus ensifer"
+    "CommonName": "YellowstripedSquirrelfish",
+    "Scientificname": "Holocentrusensifer"
   },
   {
-    "Common Name":"Peppered Squirrelfish         ",
-    "Scientific name":"Sargocentron punctatissimum"
+    "CommonName": "PepperedSquirrelfish",
+    "Scientificname": "Sargocentronpunctatissimum"
   },
   {
-    "Common Name":"Crown Squirrelfish            ",
-    "Scientific name":"Sargocentron diadema"
+    "CommonName": "CrownSquirrelfish",
+    "Scientificname": "Sargocentrondiadema"
   },
   {
-    "Common Name":"Hawaiian Squirrelfish         ",
-    "Scientific name":"Holocentrus xantherythrum"
+    "CommonName": "HawaiianSquirrelfish",
+    "Scientificname": "Holocentrusxantherythrum"
   },
   {
-    "Common Name":"Spotfin Squirrelfish         ",
-    "Scientific name":"Neoniphon sammara"
+    "CommonName": "SpotfinSquirrelfish",
+    "Scientificname": "Neoniphonsammara"
   },
   {
-    "Common Name":"Tahitian Squirrelfish         ",
-    "Scientific name":"Sargocentron tiere"
+    "CommonName": "TahitianSquirrelfish",
+    "Scientificname": "Sargocentrontiere"
   },
   {
-    "Common Name":"Squirrelfish Family           ",
-    "Scientific name":"Holocentridae"
+    "CommonName": "SquirrelfishFamily",
+    "Scientificname": "Holocentridae"
   },
   {
-    "Common Name":"Striped Mullet                ",
-    "Scientific name":"Mugil cephalus"
+    "CommonName": "StripedMullet",
+    "Scientificname": "Mugilcephalus"
   },
   {
-    "Common Name":"Whitespotted Surgeonfish      ",
-    "Scientific name":"Acanthurus guttatus"
+    "CommonName": "WhitespottedSurgeonfish",
+    "Scientificname": "Acanthurusguttatus"
   },
   {
-    "Common Name":"Black Marlin                  ",
-    "Scientific name":"Makaira indica"
+    "CommonName": "BlackMarlin",
+    "Scientificname": "Makairaindica"
   },
   {
-    "Common Name":"Blue Marlin                   ",
-    "Scientific name":"Makaira nigricans"
+    "CommonName": "BlueMarlin",
+    "Scientificname": "Makairanigricans"
   },
   {
-    "Common Name":"Striped Marlin                ",
-    "Scientific name":"Tetrapturus audax"
+    "CommonName": "StripedMarlin",
+    "Scientificname": "Tetrapturusaudax"
   },
   {
-    "Common Name":"Milkfish                      ",
-    "Scientific name":"Chanos chanos"
+    "CommonName": "Milkfish",
+    "Scientificname": "Chanoschanos"
   },
   {
-    "Common Name":"Hawaiian Tenpounder           ",
-    "Scientific name":"Elops hawaiensis"
+    "CommonName": "HawaiianTenpounder",
+    "Scientificname": "Elopshawaiensis"
   },
   {
-    "Common Name":"Christmas Wrasse              ",
-    "Scientific name":"Thalassoma trilobatum"
+    "CommonName": "ChristmasWrasse",
+    "Scientificname": "Thalassomatrilobatum"
   },
   {
-    "Common Name":"Bigeye Family                 ",
-    "Scientific name":"Priacanthidae"
+    "CommonName": "BigeyeFamily",
+    "Scientificname": "Priacanthidae"
   },
   {
-    "Common Name":"Glasseye                      ",
-    "Scientific name":"Heteropriacanthus cruentatus"
+    "CommonName": "Glasseye",
+    "Scientificname": "Heteropriacanthuscruentatus"
   },
   {
-    "Common Name":"Hawaiian Bigeye               ",
-    "Scientific name":"Priacanthus meeki"
+    "CommonName": "HawaiianBigeye",
+    "Scientificname": "Priacanthusmeeki"
   },
   {
-    "Common Name":"Black Surgeonfish             ",
-    "Scientific name":"Ctenochaetus hawaiiensis"
+    "CommonName": "BlackSurgeonfish",
+    "Scientificname": "Ctenochaetushawaiiensis"
   },
   {
-    "Common Name":"Thick Lipped Jack             ",
-    "Scientific name":"Pseudocaranx dentex"
+    "CommonName": "ThickLippedJack",
+    "Scientificname": "Pseudocaranxdentex"
   },
   {
-    "Common Name":"Lowfin Chub",
-    "Scientific name":"Kyphosus vaigiensis"
+    "CommonName": "LowfinChub",
+    "Scientificname": "Kyphosusvaigiensis"
   },
   {
-    "Common Name":"Gray Chub ",
-    "Scientific name":"Kyphosus bigibbus"
+    "CommonName": "GrayChub",
+    "Scientificname": "Kyphosusbigibbus"
   },
   {
-    "Common Name":"Dogtooth Tuna                 ",
-    "Scientific name":"Gymnosarda unicolor"
+    "CommonName": "DogtoothTuna",
+    "Scientificname": "Gymnosardaunicolor"
   },
   {
-    "Common Name":"Manta Family                  ",
-    "Scientific name":"Mobulidae"
+    "CommonName": "MantaFamily",
+    "Scientificname": "Mobulidae"
   },
   {
-    "Common Name":"Hawaiian Grouper              ",
-    "Scientific name":"Epinephelus quernus"
+    "CommonName": "HawaiianGrouper",
+    "Scientificname": "Epinephelusquernus"
   },
   {
-    "Common Name":"Hawkfish Family               ",
-    "Scientific name":"Cirrhitidae"
+    "CommonName": "HawkfishFamily",
+    "Scientificname": "Cirrhitidae"
   },
   {
-    "Common Name":"Eagle Ray Family              ",
-    "Scientific name":"Myliobatidae"
+    "CommonName": "EagleRayFamily",
+    "Scientificname": "Myliobatidae"
   },
   {
-    "Common Name":"Blackside Hawkfish            ",
-    "Scientific name":"Paracirrhites forsteri"
+    "CommonName": "BlacksideHawkfish",
+    "Scientificname": "Paracirrhitesforsteri"
   },
   {
-    "Common Name":"Psychedelic Wrasse            ",
-    "Scientific name":"Anampses chrysocephalus"
+    "CommonName": "PsychedelicWrasse",
+    "Scientificname": "Anampseschrysocephalus"
   },
   {
-    "Common Name":"Yellowtail Coris              ",
-    "Scientific name":"Coris gaimardi"
+    "CommonName": "YellowtailCoris",
+    "Scientificname": "Corisgaimardi"
   },
   {
-    "Common Name":"Shortnose Wrasse              ",
-    "Scientific name":"Macropharyngodon geoffroyi"
+    "CommonName": "ShortnoseWrasse",
+    "Scientificname": "Macropharyngodongeoffroyi"
   },
   {
-    "Common Name":"Wrasse Family                 ",
-    "Scientific name":"Labridae"
+    "CommonName": "WrasseFamily",
+    "Scientificname": "Labridae"
   },
   {
-    "Common Name":"Yellowstripe Coris            ",
-    "Scientific name":"Coris flavovittata"
+    "CommonName": "YellowstripeCoris",
+    "Scientificname": "Corisflavovittata"
   },
   {
-    "Common Name":"Saddle Wrasse                 ",
-    "Scientific name":"Thalassoma duperreyi"
+    "CommonName": "SaddleWrasse",
+    "Scientificname": "Thalassomaduperreyi"
   },
   {
-    "Common Name":"Blacktail Wrasse              ",
-    "Scientific name":"Thalassoma ballieui"
+    "CommonName": "BlacktailWrasse",
+    "Scientificname": "Thalassomaballieui"
   },
   {
-    "Common Name":"Bird Wrasse                   ",
-    "Scientific name":"Gomphosus varius"
+    "CommonName": "BirdWrasse",
+    "Scientificname": "Gomphosusvarius"
   },
   {
-    "Common Name":"Surge Wrasse                  ",
-    "Scientific name":"Thalassoma purpureum"
+    "CommonName": "SurgeWrasse",
+    "Scientificname": "Thalassomapurpureum"
   },
   {
-    "Common Name":"Triggerfishes/Filefishes      ",
-    "Scientific name":"Balistidae"
+    "CommonName": "Triggerfishes/Filefishes",
+    "Scientificname": "Balistidae"
   },
   {
-    "Common Name":"Black Triggerfish             ",
-    "Scientific name":"Melichthys niger"
+    "CommonName": "BlackTriggerfish",
+    "Scientificname": "Melichthysniger"
   },
   {
-    "Common Name":"Pinktail Durgon               ",
-    "Scientific name":"Melichthys vidua"
+    "CommonName": "PinktailDurgon",
+    "Scientificname": "Melichthysvidua"
   },
   {
-    "Common Name":"Reef Triggerfish              ",
-    "Scientific name":"Rhinecanthus rectangulus"
+    "CommonName": "ReefTriggerfish",
+    "Scientificname": "Rhinecanthusrectangulus"
   },
   {
-    "Common Name":"Lagoon Triggerfish            ",
-    "Scientific name":"Rhinecanthus aculeatus"
+    "CommonName": "LagoonTriggerfish",
+    "Scientificname": "Rhinecanthusaculeatus"
   },
   {
-    "Common Name":"Lei Triggerfish               ",
-    "Scientific name":"Sufflamen bursa"
+    "CommonName": "LeiTriggerfish",
+    "Scientificname": "Sufflamenbursa"
   },
   {
-    "Common Name":"Hawaiian Silverside           ",
-    "Scientific name":"Atherinomorus insularum"
+    "CommonName": "HawaiianSilverside",
+    "Scientificname": "Atherinomorusinsularum"
   },
   {
-    "Common Name":"Halfbeak Fish Family          ",
-    "Scientific name":"Hemiramphidae"
+    "CommonName": "HalfbeakFishFamily",
+    "Scientificname": "Hemiramphidae"
   },
   {
-    "Common Name":"Green Halfbeak                ",
-    "Scientific name":"Euleptorhamphus viridis"
+    "CommonName": "GreenHalfbeak",
+    "Scientificname": "Euleptorhamphusviridis"
   },
   {
-    "Common Name":"Polynesian Halfbeak           ",
-    "Scientific name":"Hemiramphus depauperatus"
+    "CommonName": "PolynesianHalfbeak",
+    "Scientificname": "Hemiramphusdepauperatus"
   },
   {
-    "Common Name":"Acute Halfbeak                ",
-    "Scientific name":"Hyporhamphus acutus"
+    "CommonName": "AcuteHalfbeak",
+    "Scientificname": "Hyporhamphusacutus"
   },
   {
-    "Common Name":"Greater Amberjack             ",
-    "Scientific name":"Seriola dumerili"
+    "CommonName": "GreaterAmberjack",
+    "Scientificname": "Serioladumerili"
   },
   {
-    "Common Name":"Great Barracuda               ",
-    "Scientific name":"Sphyraena barracuda"
+    "CommonName": "GreatBarracuda",
+    "Scientificname": "Sphyraenabarracuda"
   },
   {
-    "Common Name":"Blue Spine Unicornfish        ",
-    "Scientific name":"Naso unicornis"
+    "CommonName": "BlueSpineUnicornfish",
+    "Scientificname": "Nasounicornis"
   },
   {
-    "Common Name":"Whitemargin Unicorn Fish     ",
-    "Scientific name":"Naso annulatus"
+    "CommonName": "WhitemarginUnicornFish",
+    "Scientificname": "Nasoannulatus"
   },
   {
-    "Common Name":"Unicorn Surgeonfish Genus     ",
-    "Scientific name":"Naso"
+    "CommonName": "UnicornSurgeonfishGenus",
+    "Scientificname": "Naso"
   },
   {
-    "Common Name":"Paletail Unicornfish          ",
-    "Scientific name":"Naso brevirostris"
+    "CommonName": "PaletailUnicornfish",
+    "Scientificname": "Nasobrevirostris"
   },
   {
-    "Common Name":"Von Siebold'S Snapper         ",
-    "Scientific name":"Pristipomoides sieboldii"
+    "CommonName": "VonSiebold'SSnapper",
+    "Scientificname": "Pristipomoidessieboldii"
   },
   {
-    "Common Name":"Rainbow Runner                ",
-    "Scientific name":"Elagatis bipinnulata"
+    "CommonName": "RainbowRunner",
+    "Scientificname": "Elagatisbipinnulata"
   },
   {
-    "Common Name":"Heller'S Barracuda            ",
-    "Scientific name":"Sphyraena helleri"
+    "CommonName": "Heller'SBarracuda",
+    "Scientificname": "Sphyraenahelleri"
   },
   {
-    "Common Name":"Kawakawa                      ",
-    "Scientific name":"Euthynnus affinis"
+    "CommonName": "Kawakawa",
+    "Scientificname": "Euthynnusaffinis"
   },
   {
-    "Common Name":"Frigate Mackerel              ",
-    "Scientific name":"Auxis thazard"
+    "CommonName": "FrigateMackerel",
+    "Scientificname": "Auxisthazard"
   },
   {
-    "Common Name":"Moorish Idol                  ",
-    "Scientific name":"Zanclus cornutus"
+    "CommonName": "MoorishIdol",
+    "Scientificname": "Zancluscornutus"
   },
   {
-    "Common Name":"Bluestripe Butterflyfish      ",
-    "Scientific name":"Chaetodon fremblii"
+    "CommonName": "BluestripeButterflyfish",
+    "Scientificname": "Chaetodonfremblii"
   },
   {
-    "Common Name":"Threadfin Butterflyfish       ",
-    "Scientific name":"Chaetodon auriga"
+    "CommonName": "ThreadfinButterflyfish",
+    "Scientificname": "Chaetodonauriga"
   },
   {
-    "Common Name":"Teardrop Butterflyfish        ",
-    "Scientific name":"Chaetodon unimaculatus"
+    "CommonName": "TeardropButterflyfish",
+    "Scientificname": "Chaetodonunimaculatus"
   },
   {
-    "Common Name":"Racoon Butterflyfish          ",
-    "Scientific name":"Chaetodon lunula"
+    "CommonName": "RacoonButterflyfish",
+    "Scientificname": "Chaetodonlunula"
   },
   {
-    "Common Name":"Porcupinefish                 ",
-    "Scientific name":"Diodon hystrix"
+    "CommonName": "Porcupinefish",
+    "Scientificname": "Diodonhystrix"
   },
   {
-    "Common Name":"Spiny Porcupinefish           ",
-    "Scientific name":"Diodon holocanthus"
+    "CommonName": "SpinyPorcupinefish",
+    "Scientificname": "Diodonholocanthus"
   },
   {
-    "Common Name":"Porcupinefish Family          ",
-    "Scientific name":"Diodontidae"
+    "CommonName": "PorcupinefishFamily",
+    "Scientificname": "Diodontidae"
   },
   {
-    "Common Name":"Whitesaddle Goatfish          ",
-    "Scientific name":"Parupeneus porphyreus"
+    "CommonName": "WhitesaddleGoatfish",
+    "Scientificname": "Parupeneusporphyreus"
   },
   {
-    "Common Name":"Blackspot Sergeant           ",
-    "Scientific name":"Abudefduf sordidus"
+    "CommonName": "BlackspotSergeant",
+    "Scientificname": "Abudefdufsordidus"
   },
   {
-    "Common Name":"Cigar                         ",
-    "Scientific name":"Cheilio inermis"
+    "CommonName": "Cigar",
+    "Scientificname": "Cheilioinermis"
   },
   {
-    "Common Name":"Leatherback                   ",
-    "Scientific name":"Chorinemus sanctipetri"
+    "CommonName": "Leatherback",
+    "Scientificname": "Chorinemussanctipetri"
   },
   {
-    "Common Name":"Razorfish Genus               ",
-    "Scientific name":"Hemipteronotus"
+    "CommonName": "RazorfishGenus",
+    "Scientificname": "Hemipteronotus"
   },
   {
-    "Common Name":"Baldwin'S Wrasse              ",
-    "Scientific name":"Hemipteronotus baldwini"
+    "CommonName": "Baldwin'SWrasse",
+    "Scientificname": "Hemipteronotusbaldwini"
   },
   {
-    "Common Name":"Peacock Razorfish             ",
-    "Scientific name":"Hemipteronotus  pavoninus"
+    "CommonName": "PeacockRazorfish",
+    "Scientificname": "Hemipteronotuspavoninus"
   },
   {
-    "Common Name":"Blackside Razorfish           ",
-    "Scientific name":"Hemipteronotus umbrilatus"
+    "CommonName": "BlacksideRazorfish",
+    "Scientificname": "Hemipteronotusumbrilatus"
   },
   {
-    "Common Name":"Milletseed Butterflyfish      ",
-    "Scientific name":"Chaetodon miliaris"
+    "CommonName": "MilletseedButterflyfish",
+    "Scientificname": "Chaetodonmiliaris"
   },
   {
-    "Common Name":"Fourspot Butterflyfish        ",
-    "Scientific name":"Chaetodon quadrimaculatus"
+    "CommonName": "FourspotButterflyfish",
+    "Scientificname": "Chaetodonquadrimaculatus"
   },
   {
-    "Common Name":"Yellow Tang                   ",
-    "Scientific name":"Zebrasoma flavescens"
+    "CommonName": "YellowTang",
+    "Scientificname": "Zebrasomaflavescens"
   },
   {
-    "Common Name":"Black Trevally                ",
-    "Scientific name":"Caranx lugubris"
+    "CommonName": "BlackTrevally",
+    "Scientificname": "Caranxlugubris"
   },
   {
-    "Common Name":"Longnose Butterflyfish       ",
-    "Scientific name":"Forcipiger flavissimus"
+    "CommonName": "LongnoseButterflyfish",
+    "Scientificname": "Forcipigerflavissimus"
   },
   {
-    "Common Name":"Ironjaw Snapper               ",
-    "Scientific name":"Aphareus rutilans"
+    "CommonName": "IronjawSnapper",
+    "Scientificname": "Aphareusrutilans"
   },
   {
-    "Common Name":"Scrawled Filefish             ",
-    "Scientific name":"Aluterus scriptus"
+    "CommonName": "ScrawledFilefish",
+    "Scientificname": "Aluterusscriptus"
   },
   {
-    "Common Name":"Stingray Family               ",
-    "Scientific name":"Dasyatidae"
+    "CommonName": "StingrayFamily",
+    "Scientificname": "Dasyatidae"
   },
   {
-    "Common Name":"Dolphin                       ",
-    "Scientific name":"Coryphaena hippurus"
+    "CommonName": "Dolphin",
+    "Scientificname": "Coryphaenahippurus"
   },
   {
-    "Common Name":"Pompano Dolphin               ",
-    "Scientific name":"Coryphaena equiselis"
+    "CommonName": "PompanoDolphin",
+    "Scientificname": "Coryphaenaequiselis"
   },
   {
-    "Common Name":"Brown Surgeonfish             ",
-    "Scientific name":"Acanthurus nigrofuscus"
+    "CommonName": "BrownSurgeonfish",
+    "Scientificname": "Acanthurusnigrofuscus"
   },
   {
-    "Common Name":"Bluelined Surgeonfish         ",
-    "Scientific name":"Acanthurus nigroris"
+    "CommonName": "BluelinedSurgeonfish",
+    "Scientificname": "Acanthurusnigroris"
   },
   {
-    "Common Name":"White Bar Surgeonfish         ",
-    "Scientific name":"Acanthurus leucopareius"
+    "CommonName": "WhiteBarSurgeonfish",
+    "Scientificname": "Acanthurusleucopareius"
   },
   {
-    "Common Name":"Thornback Cowfish             ",
-    "Scientific name":"Lactoria fornasini"
+    "CommonName": "ThornbackCowfish",
+    "Scientificname": "Lactoriafornasini"
   },
   {
-    "Common Name":"Lined Coris                   ",
-    "Scientific name":"Coris ballieui"
+    "CommonName": "LinedCoris",
+    "Scientificname": "Corisballieui"
   },
   {
-    "Common Name":"Sidespot Goatfish             ",
-    "Scientific name":"Parupeneus pleurostigma"
+    "CommonName": "SidespotGoatfish",
+    "Scientificname": "Parupeneuspleurostigma"
   },
   {
-    "Common Name":"Hawaiian Sergeant             ",
-    "Scientific name":"Abudefduf abdominalis"
+    "CommonName": "HawaiianSergeant",
+    "Scientificname": "Abudefdufabdominalis"
   },
   {
-    "Common Name":"Damselfishes                  ",
-    "Scientific name":"Pomacentridae"
+    "CommonName": "Damselfishes",
+    "Scientificname": "Pomacentridae"
   },
   {
-    "Common Name":"Sailfin Tang                  ",
-    "Scientific name":"Zebrasoma veliferum"
+    "CommonName": "SailfinTang",
+    "Scientificname": "Zebrasomaveliferum"
   },
   {
-    "Common Name":"Convict Tang                  ",
-    "Scientific name":"Acanthurus triostegus"
+    "CommonName": "ConvictTang",
+    "Scientificname": "Acanthurustriostegus"
   },
   {
-    "Common Name":"Sandbar Shark                 ",
-    "Scientific name":"Carcharhinus plumbeus"
+    "CommonName": "SandbarShark",
+    "Scientificname": "Carcharhinusplumbeus"
   },
   {
-    "Common Name":"Gray Reef Shark               ",
-    "Scientific name":"Carcharhinus amblyrhynchos"
+    "CommonName": "GrayReefShark",
+    "Scientificname": "Carcharhinusamblyrhynchos"
   },
   {
-    "Common Name":"Galapagos Shark               ",
-    "Scientific name":"Carcharhinus galapagensis"
+    "CommonName": "GalapagosShark",
+    "Scientificname": "Carcharhinusgalapagensis"
   },
   {
-    "Common Name":"Requiem Shark Family          ",
-    "Scientific name":"Carcharhinidae"
+    "CommonName": "RequiemSharkFamily",
+    "Scientificname": "Carcharhinidae"
   },
   {
-    "Common Name":"Scalloped Hammerhead Shark    ",
-    "Scientific name":"Sphyrna lewini"
+    "CommonName": "ScallopedHammerheadShark",
+    "Scientificname": "Sphyrnalewini"
   },
   {
-    "Common Name":"White Tip Reef Shark          ",
-    "Scientific name":"Triaenodon obesus"
+    "CommonName": "WhiteTipReefShark",
+    "Scientificname": "Triaenodonobesus"
   },
   {
-    "Common Name":"Black-Tipped Reef Shark       ",
-    "Scientific name":"Carcharhinus melanopterus"
+    "CommonName": "Black-TippedReefShark",
+    "Scientificname": "Carcharhinusmelanopterus"
   },
   {
-    "Common Name":"Bigeye Trevally               ",
-    "Scientific name":"Caranx sexfasciatus"
+    "CommonName": "BigeyeTrevally",
+    "Scientificname": "Caranxsexfasciatus"
   },
   {
-    "Common Name":"Round Herring                 ",
-    "Scientific name":"Etrumeus teres"
+    "CommonName": "RoundHerring",
+    "Scientificname": "Etrumeusteres"
   },
   {
-    "Common Name":"Spotted Boxfish               ",
-    "Scientific name":"Ostracion meleagris"
+    "CommonName": "SpottedBoxfish",
+    "Scientificname": "Ostracionmeleagris"
   },
   {
-    "Common Name":"Manybar Goatfish              ",
-    "Scientific name":"Parupeneus multifasciatus"
+    "CommonName": "ManybarGoatfish",
+    "Scientificname": "Parupeneusmultifasciatus"
   },
   {
-    "Common Name":"Blue Goatfish                 ",
-    "Scientific name":"Parupeneus cyclostomus"
+    "CommonName": "BlueGoatfish",
+    "Scientificname": "Parupeneuscyclostomus"
   },
   {
-    "Common Name":"Six-Fingered Threadfin        ",
-    "Scientific name":"Polydactylus sexfilis"
+    "CommonName": "Six-FingeredThreadfin",
+    "Scientificname": "Polydactylussexfilis"
   },
   {
-    "Common Name":"Pomfrets                      ",
-    "Scientific name":"Bramidae"
+    "CommonName": "Pomfrets",
+    "Scientificname": "Bramidae"
   },
   {
-    "Common Name":"Bigeye Emperor                ",
-    "Scientific name":"Monotaxis grandoculis"
+    "CommonName": "BigeyeEmperor",
+    "Scientificname": "Monotaxisgrandoculis"
   },
   {
-    "Common Name":"Doublebar Goatfish            ",
-    "Scientific name":"Parupeneus bifasciatus"
+    "CommonName": "DoublebarGoatfish",
+    "Scientificname": "Parupeneusbifasciatus"
   },
   {
-    "Common Name":"Orangeband Surgeonfish        ",
-    "Scientific name":"Acanthurus olivaceus"
+    "CommonName": "OrangebandSurgeonfish",
+    "Scientificname": "Acanthurusolivaceus"
   },
   {
-    "Common Name":"Hawaiian Anchovies            ",
-    "Scientific name":"Encrasicholina purpurea"
+    "CommonName": "HawaiianAnchovies",
+    "Scientificname": "Encrasicholinapurpurea"
   },
   {
-    "Common Name":"Highfin Rudderfish            ",
-    "Scientific name":"Kyphosus cinerascens"
+    "CommonName": "HighfinRudderfish",
+    "Scientificname": "Kyphosuscinerascens"
   },
   {
-    "Common Name":"Sea Chubs                     ",
-    "Scientific name":"Kyphosidae"
+    "CommonName": "SeaChubs",
+    "Scientificname": "Kyphosidae"
   },
   {
-    "Common Name":"Barred Jack                   ",
-    "Scientific name":"Carangoides ferdau"
+    "CommonName": "BarredJack",
+    "Scientificname": "Carangoidesferdau"
   },
   {
-    "Common Name":"Scorpionfish Family           ",
-    "Scientific name":"Scorpaenidae"
+    "CommonName": "ScorpionfishFamily",
+    "Scientificname": "Scorpaenidae"
   },
   {
-    "Common Name":"Hawaiian Lionfish             ",
-    "Scientific name":"Dendrochirus barberi"
+    "CommonName": "HawaiianLionfish",
+    "Scientificname": "Dendrochirusbarberi"
   },
   {
-    "Common Name":"Devil Scorpionfish           ",
-    "Scientific name":"Scorpaenopsis diabolus"
+    "CommonName": "DevilScorpionfish",
+    "Scientificname": "Scorpaenopsisdiabolus"
   },
   {
-    "Common Name":"Titan Scorpionfish            ",
-    "Scientific name":"Scorpaenopsis cacopsis"
+    "CommonName": "TitanScorpionfish",
+    "Scientificname": "Scorpaenopsiscacopsis"
   },
   {
-    "Common Name":"Speckled Scorpionfish         ",
-    "Scientific name":"Scorpaena coniorta"
+    "CommonName": "SpeckledScorpionfish",
+    "Scientificname": "Scorpaenaconiorta"
   },
   {
-    "Common Name":"Spotfin Scorpionfish          ",
-    "Scientific name":"Scorpaena ballieui"
+    "CommonName": "SpotfinScorpionfish",
+    "Scientificname": "Scorpaenaballieui"
   },
   {
-    "Common Name":"Trumpetfish                   ",
-    "Scientific name":"Aulostomus chinensis"
+    "CommonName": "Trumpetfish",
+    "Scientificname": "Aulostomuschinensis"
   },
   {
-    "Common Name":"Cornetfish                    ",
-    "Scientific name":"Fistularia commersoni"
+    "CommonName": "Cornetfish",
+    "Scientificname": "Fistulariacommersoni"
   },
   {
-    "Common Name":"Ornate Wrasse                 ",
-    "Scientific name":"Halichoeres ornatissimus"
+    "CommonName": "OrnateWrasse",
+    "Scientificname": "Halichoeresornatissimus"
   },
   {
-    "Common Name":"Barred Filefish               ",
-    "Scientific name":"Cantherhines dumerili"
+    "CommonName": "BarredFilefish",
+    "Scientificname": "Cantherhinesdumerili"
   },
   {
-    "Common Name":"Squaretail Filefish           ",
-    "Scientific name":"Cantherhines sandwichiensis"
+    "CommonName": "SquaretailFilefish",
+    "Scientificname": "Cantherhinessandwichiensis"
   },
   {
-    "Common Name":"Fantail Filefish              ",
-    "Scientific name":"Pervagor spilosoma"
+    "CommonName": "FantailFilefish",
+    "Scientificname": "Pervagorspilosoma"
   },
   {
-    "Common Name":"Smallmouth Bonefish           ",
-    "Scientific name":"Albula glossodonta"
+    "CommonName": "SmallmouthBonefish",
+    "Scientificname": "Albulaglossodonta"
   },
   {
-    "Common Name":"Bluefin Trevally              ",
-    "Scientific name":"Caranx melampygus"
+    "CommonName": "BluefinTrevally",
+    "Scientificname": "Caranxmelampygus"
   },
   {
-    "Common Name":"Wahoo                         ",
-    "Scientific name":"Acanthocybium solandri"
+    "CommonName": "Wahoo",
+    "Scientificname": "Acanthocybiumsolandri"
   },
   {
-    "Common Name":"Goby Family                   ",
-    "Scientific name":"Gobiidae"
+    "CommonName": "GobyFamily",
+    "Scientificname": "Gobiidae"
   },
   {
-    "Common Name":"Speckled Baloonfish          ",
-    "Scientific name":"Arothron meleagris"
+    "CommonName": "SpeckledBaloonfish",
+    "Scientificname": "Arothronmeleagris"
   },
   {
-    "Common Name":"Stripebelly Puffer            ",
-    "Scientific name":"Arothron hispidus"
+    "CommonName": "StripebellyPuffer",
+    "Scientificname": "Arothronhispidus"
   },
   {
-    "Common Name":"Large Headed Scorpionfish     ",
-    "Scientific name":"Pontinus macrocephalus"
+    "CommonName": "LargeHeadedScorpionfish",
+    "Scientificname": "Pontinusmacrocephalus"
   },
   {
-    "Common Name":"Pink Snapper                  ",
-    "Scientific name":"Pristipomoides filamentosus"
+    "CommonName": "PinkSnapper",
+    "Scientificname": "Pristipomoidesfilamentosus"
   },
   {
-    "Common Name":"Mackerel Scad                 ",
-    "Scientific name":"Decapterus macarellus"
+    "CommonName": "MackerelScad",
+    "Scientificname": "Decapterusmacarellus"
   },
   {
-    "Common Name":"Sleek Unicornfish             ",
-    "Scientific name":"Naso hexacanthus"
+    "CommonName": "SleekUnicornfish",
+    "Scientificname": "Nasohexacanthus"
   },
   {
-    "Common Name":"Pearl Wrasse                  ",
-    "Scientific name":"Anampses cuvieri"
+    "CommonName": "PearlWrasse",
+    "Scientificname": "Anampsescuvieri"
   },
   {
-    "Common Name":"Lefteye Flounder Family       ",
-    "Scientific name":"Bothidae"
+    "CommonName": "LefteyeFlounderFamily",
+    "Scientificname": "Bothidae"
   },
   {
-    "Common Name":"Flowery Flounder              ",
-    "Scientific name":"Bothus mancus"
+    "CommonName": "FloweryFlounder",
+    "Scientificname": "Bothusmancus"
   },
   {
-    "Common Name":"Achilles Tang                 ",
-    "Scientific name":"Acanthurus achilles"
+    "CommonName": "AchillesTang",
+    "Scientificname": "Acanthurusachilles"
   },
   {
-    "Common Name":"Eyestriped Surgeonfish       ",
-    "Scientific name":"Acanthurus dussumieri"
+    "CommonName": "EyestripedSurgeonfish",
+    "Scientificname": "Acanthurusdussumieri"
   },
   {
-    "Common Name":"Island Jack                   ",
-    "Scientific name":"Carangoides orthogrammus"
+    "CommonName": "IslandJack",
+    "Scientificname": "Carangoidesorthogrammus"
   },
   {
-    "Common Name":"Delicate Round Herring        ",
-    "Scientific name":"Spratelloides delicatulus"
+    "CommonName": "DelicateRoundHerring",
+    "Scientificname": "Spratelloidesdelicatulus"
   },
   {
-    "Common Name":"Arc-Eye Hawkfish              ",
-    "Scientific name":"Paracirrhites arcatus"
+    "CommonName": "Arc-EyeHawkfish",
+    "Scientificname": "Paracirrhitesarcatus"
   },
   {
-    "Common Name":"Redbarred Hawkfish            ",
-    "Scientific name":"Cirrhitops fasciatus"
+    "CommonName": "RedbarredHawkfish",
+    "Scientificname": "Cirrhitopsfasciatus"
   },
   {
-    "Common Name":"Stareye Parrotfish            ",
-    "Scientific name":"Calotomus carolinus"
+    "CommonName": "StareyeParrotfish",
+    "Scientificname": "Calotomuscarolinus"
   },
   {
-    "Common Name":"Bigeye Tuna                   ",
-    "Scientific name":"Thunnus obesus"
+    "CommonName": "BigeyeTuna",
+    "Scientificname": "Thunnusobesus"
   },
   {
-    "Common Name":"Stocky Hawkfish               ",
-    "Scientific name":"Cirrhitus pinnulatus"
+    "CommonName": "StockyHawkfish",
+    "Scientificname": "Cirrhituspinnulatus"
   },
   {
-    "Common Name":"Ringtail Wrasse               ",
-    "Scientific name":"Cheilinus unifasciatus"
+    "CommonName": "RingtailWrasse",
+    "Scientificname": "Cheilinusunifasciatus"
   },
   {
-    "Common Name":"Yellowfin Surgeonfish         ",
-    "Scientific name":"Acanthurus xanthopterus"
+    "CommonName": "YellowfinSurgeonfish",
+    "Scientificname": "Acanthurusxanthopterus"
   },
   {
-    "Common Name":"Ringtail Surgeonfish          ",
-    "Scientific name":"Acanthurus blochii"
+    "CommonName": "RingtailSurgeonfish",
+    "Scientificname": "Acanthurusblochii"
   },
   {
-    "Common Name":"Moray Family                  ",
-    "Scientific name":"Muraenidae"
+    "CommonName": "MorayFamily",
+    "Scientificname": "Muraenidae"
   },
   {
-    "Common Name":"Zebra Moray Eel               ",
-    "Scientific name":"Gymnomuraena zebra"
+    "CommonName": "ZebraMorayEel",
+    "Scientificname": "Gymnomuraenazebra"
   },
   {
-    "Common Name":"Stout Moray Eel               ",
-    "Scientific name":"Gymnothorax eurostus"
+    "CommonName": "StoutMorayEel",
+    "Scientificname": "Gymnothoraxeurostus"
   },
   {
-    "Common Name":"Steindachner's Moray Eel      ",
-    "Scientific name":"Gymnothorax steindachneri"
+    "CommonName": "Steindachner'sMorayEel",
+    "Scientificname": "Gymnothoraxsteindachneri"
   },
   {
-    "Common Name":"Needle-Tooth Moray            ",
-    "Scientific name":"Uropterygius macrocephalus"
+    "CommonName": "Needle-ToothMoray",
+    "Scientificname": "Uropterygiusmacrocephalus"
   },
   {
-    "Common Name":"Snowflake Moray Eel           ",
-    "Scientific name":"Echidna nebulosa"
+    "CommonName": "SnowflakeMorayEel",
+    "Scientificname": "Echidnanebulosa"
   },
   {
-    "Common Name":"Dragon Moray                  ",
-    "Scientific name":"Muraena pardalis"
+    "CommonName": "DragonMoray",
+    "Scientificname": "Muraenapardalis"
   },
   {
-    "Common Name":"Viper Moray                   ",
-    "Scientific name":"Enchelynassa canina"
+    "CommonName": "ViperMoray",
+    "Scientificname": "Enchelynassacanina"
   },
   {
-    "Common Name":"Undulated Moray Eel           ",
-    "Scientific name":"Gymnothorax undulatus"
+    "CommonName": "UndulatedMorayEel",
+    "Scientificname": "Gymnothoraxundulatus"
   },
   {
-    "Common Name":"Barred Moray                  ",
-    "Scientific name":"Echidna polyzona"
+    "CommonName": "BarredMoray",
+    "Scientificname": "Echidnapolyzona"
   },
   {
-    "Common Name":"Yellowmargin Moray Eel        ",
-    "Scientific name":"Gymnothorax flavimarginatus"
+    "CommonName": "YellowmarginMorayEel",
+    "Scientificname": "Gymnothoraxflavimarginatus"
   },
   {
-    "Common Name":"Mustache Conger Eel           ",
-    "Scientific name":"Conger cinereus"
+    "CommonName": "MustacheCongerEel",
+    "Scientificname": "Congercinereus"
   },
   {
-    "Common Name":"Whitemouth Moray Eel          ",
-    "Scientific name":"Gymnothorax meleagris"
+    "CommonName": "WhitemouthMorayEel",
+    "Scientificname": "Gymnothoraxmeleagris"
   },
   {
-    "Common Name":"Yellowhead Moray Eel          ",
-    "Scientific name":"Gymnothorax rueppelliae"
+    "CommonName": "YellowheadMorayEel",
+    "Scientificname": "Gymnothoraxrueppelliae"
   },
   {
-    "Common Name":"Cusk Eel Family               ",
-    "Scientific name":"Ophidiidae"
+    "CommonName": "CuskEelFamily",
+    "Scientificname": "Ophidiidae"
   },
   {
-    "Common Name":"Ambon Toby                    ",
-    "Scientific name":"Canthigaster amboinensis"
+    "CommonName": "AmbonToby",
+    "Scientificname": "Canthigasteramboinensis"
   },
   {
-    "Common Name":"Peacock Grouper               ",
-    "Scientific name":"Cephalopholis argus"
+    "CommonName": "PeacockGrouper",
+    "Scientificname": "Cephalopholisargus"
   },
   {
-    "Common Name":"Stripey                       ",
-    "Scientific name":"Microcanthus strigatus"
+    "CommonName": "Stripey",
+    "Scientificname": "Microcanthusstrigatus"
   },
   {
-    "Common Name":"Summer Mullet                 ",
-    "Scientific name":"Valamugil engeli"
+    "CommonName": "SummerMullet",
+    "Scientificname": "Valamugilengeli"
   },
   {
-    "Common Name":"Bluestipe Snapper             ",
-    "Scientific name":"Lutjanus kasmira"
+    "CommonName": "BluestipeSnapper",
+    "Scientificname": "Lutjanuskasmira"
   },
   {
-    "Common Name":"Blacktail Snapper             ",
-    "Scientific name":"Lutjanus fulvus"
+    "CommonName": "BlacktailSnapper",
+    "Scientificname": "Lutjanusfulvus"
   },
   {
-    "Common Name":"Parrotfish Family             ",
-    "Scientific name":"Scaridae"
+    "CommonName": "ParrotfishFamily",
+    "Scientificname": "Scaridae"
   },
   {
-    "Common Name":"Bandtail Parrotfish          ",
-    "Scientific name":"Scarus taeniurus"
+    "CommonName": "BandtailParrotfish",
+    "Scientificname": "Scarustaeniurus"
   },
   {
-    "Common Name":"Bullethead Parrotfish         ",
-    "Scientific name":"Scarus sordidus"
+    "CommonName": "BulletheadParrotfish",
+    "Scientificname": "Scarussordidus"
   },
   {
-    "Common Name":"Palenose Parrotfish           ",
-    "Scientific name":"Scarus psittacus"
+    "CommonName": "PalenoseParrotfish",
+    "Scientificname": "Scaruspsittacus"
   },
   {
-    "Common Name":"Spectacled Parrotfish         ",
-    "Scientific name":"Scarus perspicillatus"
+    "CommonName": "SpectacledParrotfish",
+    "Scientificname": "Scarusperspicillatus"
   },
   {
-    "Common Name":"Regal Parrotfish              ",
-    "Scientific name":"Scarus dubius"
+    "CommonName": "RegalParrotfish",
+    "Scientificname": "Scarusdubius"
   },
   {
-    "Common Name":"Redlip Parrotfish             ",
-    "Scientific name":"Scarus rubroviolaceus"
+    "CommonName": "RedlipParrotfish",
+    "Scientificname": "Scarusrubroviolaceus"
   },
   {
-    "Common Name":"Bingham'S Snapper             ",
-    "Scientific name":"Pristipomoides zonatus"
+    "CommonName": "Bingham'SSnapper",
+    "Scientificname": "Pristipomoideszonatus"
   },
   {
-    "Common Name":"Green Jobfish                 ",
-    "Scientific name":"Aprion virescens"
+    "CommonName": "GreenJobfish",
+    "Scientificname": "Aprionvirescens"
   },
   {
-    "Common Name":"Ruby Snapper                  ",
-    "Scientific name":"Etelis carbunculus"
+    "CommonName": "RubySnapper",
+    "Scientificname": "Eteliscarbunculus"
   },
   {
-    "Common Name":"Longtailed Red Snapper        ",
-    "Scientific name":"Etelis coruscans"
+    "CommonName": "LongtailedRedSnapper",
+    "Scientificname": "Eteliscoruscans"
   },
   {
-    "Common Name":"Lizardfishes                  ",
-    "Scientific name":"Synodontidae"
+    "CommonName": "Lizardfishes",
+    "Scientificname": "Synodontidae"
   },
   {
-    "Common Name":"Slender Lizardfish            ",
-    "Scientific name":"Saurida gracilis"
+    "CommonName": "SlenderLizardfish",
+    "Scientificname": "Sauridagracilis"
   },
   {
-    "Common Name":"Jack Family                   ",
-    "Scientific name":"Carangidae"
+    "CommonName": "JackFamily",
+    "Scientificname": "Carangidae"
   },
   {
-    "Common Name":"Giant Trevally                ",
-    "Scientific name":"Caranx ignobilis"
+    "CommonName": "GiantTrevally",
+    "Scientificname": "Caranxignobilis"
   },
   {
-    "Common Name":"African Pompano               ",
-    "Scientific name":"Alectis ciliaris"
+    "CommonName": "AfricanPompano",
+    "Scientificname": "Alectisciliaris"
   },
   {
-    "Common Name":"Golden Trevally               ",
-    "Scientific name":"Gnathanodon speciosus"
+    "CommonName": "GoldenTrevally",
+    "Scientificname": "Gnathanodonspeciosus"
   },
   {
-    "Common Name":"Orangespine Unicornfish      ",
-    "Scientific name":"Naso lituratus"
+    "CommonName": "OrangespineUnicornfish",
+    "Scientificname": "Nasolituratus"
   },
   {
-    "Common Name":"Sharpnose Mullet              ",
-    "Scientific name":"Neomyxus leuciscus"
+    "CommonName": "SharpnoseMullet",
+    "Scientificname": "Neomyxusleuciscus"
   },
   {
-    "Common Name":"Cardinalfishes                ",
-    "Scientific name":"Apogonidae"
+    "CommonName": "Cardinalfishes",
+    "Scientificname": "Apogonidae"
   },
   {
-    "Common Name":"Spotted Cardinalfish          ",
-    "Scientific name":"Apogon maculiferus"
+    "CommonName": "SpottedCardinalfish",
+    "Scientificname": "Apogonmaculiferus"
   },
   {
-    "Common Name":"Iridescent Cardinalfish       ",
-    "Scientific name":"Apogon kallopterus"
+    "CommonName": "IridescentCardinalfish",
+    "Scientificname": "Apogonkallopterus"
   },
   {
-    "Common Name":"Bandfin Cardinalfish          ",
-    "Scientific name":"Apogon menesemus"
+    "CommonName": "BandfinCardinalfish",
+    "Scientificname": "Apogonmenesemus"
   },
   {
-    "Common Name":"Bigscale Soldierfish          ",
-    "Scientific name":"Myripristis berndti"
+    "CommonName": "BigscaleSoldierfish",
+    "Scientificname": "Myripristisberndti"
   },
   {
-    "Common Name":"Brick Soldierfish             ",
-    "Scientific name":"Myripristis amaena"
+    "CommonName": "BrickSoldierfish",
+    "Scientificname": "Myripristisamaena"
   },
   {
-    "Common Name":"Epaulette Soldierfish         ",
-    "Scientific name":"Myripristis kuntee"
+    "CommonName": "EpauletteSoldierfish",
+    "Scientificname": "Myripristiskuntee"
   },
   {
-    "Common Name":"Yellowfin Soldierfish         ",
-    "Scientific name":"Myripristis chryseres"
+    "CommonName": "YellowfinSoldierfish",
+    "Scientificname": "Myripristischryseres"
   },
   {
-    "Common Name":"Whitetip Soldierfish          ",
-    "Scientific name":"Myripristis vittata"
+    "CommonName": "WhitetipSoldierfish",
+    "Scientificname": "Myripristisvittata"
   },
   {
-    "Common Name":"Roughscale Soldierfish        ",
-    "Scientific name":"Plectrypops lima"
+    "CommonName": "RoughscaleSoldierfish",
+    "Scientificname": "Plectrypopslima"
   },
   {
-    "Common Name":"Smalltooth Jobfish            ",
-    "Scientific name":"Aphareus furcatus"
+    "CommonName": "SmalltoothJobfish",
+    "Scientificname": "Aphareusfurcatus"
   },
   {
-    "Common Name":"Oilfish                       ",
-    "Scientific name":"Ruvettus pretiosus"
+    "CommonName": "Oilfish",
+    "Scientificname": "Ruvettuspretiosus"
   },
   {
-    "Common Name":"Yellowstripe Goatfish         ",
-    "Scientific name":"Mulloidichthys flavolineatus"
+    "CommonName": "YellowstripeGoatfish",
+    "Scientificname": "Mulloidichthysflavolineatus"
   },
   {
-    "Common Name":"Pflugers Goatfish             ",
-    "Scientific name":"Mulloidichthys pflugeri"
+    "CommonName": "PflugersGoatfish",
+    "Scientificname": "Mulloidichthyspflugeri"
   },
   {
-    "Common Name":"Bandtail Goatfish             ",
-    "Scientific name":"Upeneus arge"
+    "CommonName": "BandtailGoatfish",
+    "Scientificname": "Upeneusarge"
   },
   {
-    "Common Name":"Yellowfin Goatfish            ",
-    "Scientific name":"Mulloidichthys vanicolensis"
+    "CommonName": "YellowfinGoatfish",
+    "Scientificname": "Mulloidichthysvanicolensis"
   },
   {
-    "Common Name":"Goldring Surgeonfish          ",
-    "Scientific name":"Ctenochaetus strigosus"
+    "CommonName": "GoldringSurgeonfish",
+    "Scientificname": "Ctenochaetusstrigosus"
   }
 ]

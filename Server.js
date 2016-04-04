@@ -10,6 +10,7 @@ var app = express();
 app.use(express.static(__dirname + '/public'));
 app.use(cors());
 app.use(bodyParser.urlencoded());
+app.use(bodyParser.json());
 
 
 /* Configure the database*/
