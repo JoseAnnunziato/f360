@@ -49,7 +49,7 @@ module.exports = function (app, spotDao, userDao, mongoose) {
 
     function deleteSpot(req, res) {
         var spotId = req.params.spotId;
-        spotDao.deleteFish(spotId)
+        spotDao.deleteSpot(spotId)
             .then(function (response) {
                 findAllSpotsByUser(req, res);
             }, function (err) {
