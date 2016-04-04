@@ -11,4 +11,7 @@ module.exports = function (app, mongoose) {
   var fishDao = require("./dao/fish/fish.server.dao")(mongoose);
   require("./services/fish/fish.server.service")(app, fishDao, tripDao, mongoose);
 
+    var spotDao = require("./dao/spot/spot.server.dao")(mongoose);
+    require("./services/spot/spot.server.service")(app, spotDao, userDao, mongoose);
+
 };
